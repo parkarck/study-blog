@@ -1,7 +1,7 @@
 ---
 title: "Cursor 자동 클린 기능 업데이트"
 category: "AI"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/ty031hFXsmQ"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "도돌아... 윈도우가 나도 모르게 깔고 있었습니다."
 category: "Programming"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtube.com/shorts/IKIb_imTsUc?si=GURE41halwvB_2AF"
 ---
 

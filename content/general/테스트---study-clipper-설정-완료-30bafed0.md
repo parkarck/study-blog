@@ -1,7 +1,7 @@
 ---
 title: "테스트 - Study Clipper 설정 완료"
 category: "General"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://test.local"
 ---
 

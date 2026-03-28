@@ -1,7 +1,7 @@
 ---
 title: "FDE와 한국 IT SI 산업 논의"
 category: "한국IT"
-date: "2026-03-28"
+date: "2026-03-29"
 ---
 
 # FDE와 한국 IT SI 산업 논의

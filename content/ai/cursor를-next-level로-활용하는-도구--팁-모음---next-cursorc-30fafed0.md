@@ -1,7 +1,7 @@
 ---
 title: "Cursor를 Next-Level로 활용하는 도구 & 팁 모음 - next-cursor.com"
 category: "AI"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://github.com/greatSumini/next-cursor.com"
 ---
 

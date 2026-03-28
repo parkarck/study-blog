@@ -1,7 +1,7 @@
 ---
 title: "TMUX 마스터클래스 | 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ"
 category: "Agent"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/vlg8X0N8z08?si=U-lsXavgi5KFVxAy"
 ---
 

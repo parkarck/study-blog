@@ -1,7 +1,7 @@
 ---
 title: "한국 AI 커뮤니티 기술 토론 (RAG & ML/NLP 실전)"
 category: "LLM"
-date: "2026-03-28"
+date: "2026-03-29"
 ---
 
 # 한국 AI 커뮤니티 기술 토론 (RAG & ML/NLP 실전)

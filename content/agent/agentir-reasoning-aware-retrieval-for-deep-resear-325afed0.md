@@ -1,7 +1,7 @@
 ---
 title: "AgentIR: Reasoning-Aware Retrieval for Deep Research Agents"
 category: "Agent"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://texttron.github.io/AgentIR/"
 ---
 

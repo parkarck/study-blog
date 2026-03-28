@@ -1,7 +1,7 @@
 ---
 title: "AI가 혼자서 앱을 만든다? Claude Agent Harness의 비밀"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/FKBNZ4OJxlc"
 ---
 

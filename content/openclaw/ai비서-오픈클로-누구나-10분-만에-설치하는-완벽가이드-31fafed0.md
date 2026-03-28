@@ -1,7 +1,7 @@
 ---
 title: "AI비서 오픈클로! 누구나 10분 만에 설치하는 완벽가이드"
 category: "OpenClaw"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/P5tKfxV35FQ?si=poZrpr_Vv7wu0Mbl"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "스탠포드가 가르치는 AI시대 창의력 훈련법 | 스탠포드 교수 제레미 어틀리"
 category: "LLM"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/rSS5yM74zeo?si=JEq6AUiB7sib7mGd"
 ---
 

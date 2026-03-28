@@ -1,7 +1,7 @@
 ---
 title: "Advent of Claude: 31일간의 Claude Code 팁"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://adocomplete.com/advent-of-claude-2025/"
 ---
 

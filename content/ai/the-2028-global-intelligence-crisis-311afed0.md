@@ -1,7 +1,7 @@
 ---
 title: "The 2028 Global Intelligence Crisis"
 category: "AI"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://www.citriniresearch.com/p/2028gic"
 ---
 

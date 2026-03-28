@@ -1,7 +1,7 @@
 ---
 title: "클로드 코드 + 오토리서치 = 자기 개선 AI입니다"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/HaAZu5lUkWI?si=9I88dbvhOajpij4g"
 ---
 

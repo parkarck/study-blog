@@ -1,7 +1,7 @@
 ---
 title: "Claude Code의 도구 선택 경향 분석"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://news.hada.io/topic?id=27056"
 ---
 

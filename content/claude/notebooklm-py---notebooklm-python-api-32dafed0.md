@@ -1,7 +1,7 @@
 ---
 title: "notebooklm-py - NotebookLM Python API"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://github.com/teng-lin/notebooklm-py"
 ---
 

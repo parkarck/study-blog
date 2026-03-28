@@ -1,7 +1,7 @@
 ---
 title: "CLAUDE.md로 AI 코딩 품질 3배 향상"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/cZ8_Dkk_Ce0"
 ---
 

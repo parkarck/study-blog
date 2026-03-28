@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks: Zero to Hero (Building Language Models from Scratch)"
 category: "LLM"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://github.com/rasbt/LLMs-from-scratch"
 ---
 

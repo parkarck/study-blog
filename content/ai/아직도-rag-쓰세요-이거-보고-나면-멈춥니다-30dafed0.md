@@ -1,7 +1,7 @@
 ---
 title: "아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다"
 category: "AI"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u"
 ---
 

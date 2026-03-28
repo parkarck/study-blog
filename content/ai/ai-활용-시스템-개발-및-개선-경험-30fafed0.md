@@ -1,7 +1,7 @@
 ---
 title: "AI 활용 시스템 개발 및 개선 경험"
 category: "AI"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/tcDoacn64Lo?si=x7m2NIB-VaEMovj6"
 ---
 

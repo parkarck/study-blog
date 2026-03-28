@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw 3주 사용해봤더니 이제 없으면 못 살겠습니다"
 category: "Claude"
-date: "2026-03-28"
+date: "2026-03-29"
 source_url: "https://youtu.be/-XelCjmjBec"
 ---
 
