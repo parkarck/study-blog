@@ -5,7 +5,7 @@ import { getAllCategories, getPostsByCategory, getPostBySlug, getCategoryDisplay
 import { notFound } from 'next/navigation';
 
 interface Props {
-  params: { category: string; slug: string };
+  params: Promise<{ category: string; slug: string }>;
 }
 
 // Return raw (unencoded) slugs — Next.js handles URL encoding internally
@@ -20,21 +20,23 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props) {
-  const post = getPostBySlug(params.category, params.slug);
+  const { category, slug } = await params;
+  const post = getPostBySlug(category, slug);
   return { title: post ? `${post.title} · CK Study Notes` : 'Not Found' };
 }
 
-export default function PostPage({ params }: Props) {
-  const post = getPostBySlug(params.category, params.slug);
+export default async function PostPage({ params }: Props) {
+  const { category, slug } = await params;
+  const post = getPostBySlug(category, slug);
   if (!post) notFound();
 
-  const catName = getCategoryDisplayName(params.category);
-  const catIcon = getCategoryIcon(params.category);
+  const catName = getCategoryDisplayName(category);
+  const catIcon = getCategoryIcon(category);
 
   return (
     <>
       <div className="post-header">
-        <Link href={`/${encodeURIComponent(params.category)}`} className="back-link">
+        <Link href={`/${encodeURIComponent(category)}`} className="back-link">
           ← {catIcon} {catName}
         </Link>
         <h1>{post.title}</h1>
@@ -42,7 +44,7 @@ export default function PostPage({ params }: Props) {
           {post.date && (
             <span className="post-meta-item">📅 {post.date}</span>
           )}
-          <Link href={`/${encodeURIComponent(params.category)}`} className="post-cat-tag">
+          <Link href={`/${encodeURIComponent(category)}`} className="post-cat-tag">
             {catIcon} {catName}
           </Link>
           {post.sourceUrl && (

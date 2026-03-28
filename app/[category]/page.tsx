@@ -3,7 +3,7 @@ import { getAllCategories, getPostsByCategory, getCategoryDisplayName, getCatego
 import { notFound } from 'next/navigation';
 
 interface Props {
-  params: { category: string };
+  params: Promise<{ category: string }>;
 }
 
 // Return raw (unencoded) slugs — Next.js handles URL encoding internally
@@ -12,18 +12,19 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props) {
-  const name = getCategoryDisplayName(params.category);
+  const { category } = await params;
+  const name = getCategoryDisplayName(category);
   return { title: `${name} · CK Study Notes` };
 }
 
-export default function CategoryPage({ params }: Props) {
-  const slug = params.category;
-  const posts = getPostsByCategory(slug);
+export default async function CategoryPage({ params }: Props) {
+  const { category } = await params;
+  const posts = getPostsByCategory(category);
 
   if (posts.length === 0) notFound();
 
-  const name = getCategoryDisplayName(slug);
-  const icon = getCategoryIcon(slug);
+  const name = getCategoryDisplayName(category);
+  const icon = getCategoryIcon(category);
 
   return (
     <>
@@ -40,7 +41,7 @@ export default function CategoryPage({ params }: Props) {
         {posts.map(post => (
           <Link
             key={post.slug}
-            href={`/${encodeURIComponent(slug)}/${encodeURIComponent(post.slug)}`}
+            href={`/${encodeURIComponent(category)}/${encodeURIComponent(post.slug)}`}
             className="post-card"
           >
             <div className="post-card-title">{post.title}</div>

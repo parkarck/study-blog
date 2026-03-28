@@ -132,7 +132,8 @@ export function getPostsByCategory(categoryUrlSlug: string): MarkdownPost[] {
     .filter(f => f.endsWith('.md') && f !== '_index.md')
     .map(filename => {
       const rawName = filename.replace(/\.md$/, '');
-      const { data, content } = matter(fs.readFileSync(path.join(dir, filename), 'utf-8'));
+      const fileContent = fs.readFileSync(path.join(dir, filename), 'utf-8');
+      const { data, content } = matter(fileContent);
       return {
         slug: makePostSlug(rawName),
         filename: rawName,
@@ -157,7 +158,8 @@ export function getPostBySlug(categoryUrlSlug: string, hashSlug: string): Markdo
     const rawName = filename.replace(/\.md$/, '');
     if (makePostSlug(rawName) !== hashSlug) continue;
 
-    const { data, content } = matter(fs.readFileSync(path.join(dir, filename), 'utf-8'));
+    const fileContent = fs.readFileSync(path.join(dir, filename), 'utf-8');
+    const { data, content } = matter(fileContent);
     return {
       slug: hashSlug,
       filename: rawName,
