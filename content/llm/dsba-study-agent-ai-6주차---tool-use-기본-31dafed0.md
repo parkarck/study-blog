@@ -1,5 +1,5 @@
 ---
-title: "[DSBA Study] Agent AI 6주차 - Tool use 기본"
+title: ""[DSBA Study"
 category: "LLM"
 date: "2026-03-28"
 source_url: "https://youtu.be/KdMp9r1dn5o?si=giRDMuwrRsNIhIpM"
