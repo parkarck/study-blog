@@ -10,6 +10,43 @@ function makePostSlug(filename: string): string {
   return crypto.createHash('sha256').update(filename, 'utf8').digest('hex').slice(0, 12);
 }
 
+// Notion exports include duplicate title/category/source lines in the body.
+// Strip them so the page header doesn't repeat.
+function cleanContent(raw: string): string {
+  const lines = raw.split('\n');
+  const result: string[] = [];
+  let i = 0;
+
+  // Skip leading blank lines
+  while (i < lines.length && lines[i].trim() === '') i++;
+
+  // Remove leading H1 (# Title)
+  if (i < lines.length && /^#\s/.test(lines[i])) i++;
+
+  // Remove Notion metadata lines: **Category:**, **Source:**, blank lines, and a trailing ---
+  while (i < lines.length) {
+    const l = lines[i].trim();
+    if (l === '' || /^\*\*Category:\*\*/.test(l) || /^\*\*Source:\*\*/.test(l)) {
+      i++;
+      continue;
+    }
+    if (l === '---') {
+      i++;
+      break; // stop stripping after the first hr
+    }
+    break; // hit real content, stop stripping
+  }
+
+  // Skip another leading H1 if it immediately follows (second duplicate title)
+  while (i < lines.length && lines[i].trim() === '') i++;
+  if (i < lines.length && /^#\s/.test(lines[i])) i++;
+
+  // Collect the rest
+  for (; i < lines.length; i++) result.push(lines[i]);
+
+  return result.join('\n').replace(/^\n+/, '');
+}
+
 // Korean folder → ASCII URL slug
 const FOLDER_TO_URL_SLUG: Record<string, string> = {
   '엔지니어링': 'engineering',
@@ -104,7 +141,7 @@ export function getPostsByCategory(categoryUrlSlug: string): MarkdownPost[] {
         categorySlug: categoryUrlSlug,
         date: data.date ? String(data.date) : '',
         sourceUrl: data.source_url,
-        content,
+        content: cleanContent(content),
       };
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
@@ -129,7 +166,7 @@ export function getPostBySlug(categoryUrlSlug: string, hashSlug: string): Markdo
       categorySlug: categoryUrlSlug,
       date: data.date ? String(data.date) : '',
       sourceUrl: data.source_url,
-      content,
+      content: cleanContent(content),
     };
   }
   return null;
