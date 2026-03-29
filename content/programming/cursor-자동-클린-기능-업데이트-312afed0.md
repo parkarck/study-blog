@@ -1,9 +1,9 @@
 ---
-title: "Cursor 자동 클린 기능 업데이트"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://youtu.be/ty031hFXsmQ"
-status: "완료"
+title: Cursor 자동 클린 기능 업데이트
+category: programming
+date: 2026-03-29
+source_url: https-//youtu.be/ty031hFXsmQ
+status: 완료
 ---
 
 # Cursor 자동 클린 기능 업데이트

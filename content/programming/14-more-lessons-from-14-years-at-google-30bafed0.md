@@ -1,9 +1,9 @@
 ---
-title: "14 More Lessons from 14 Years at Google"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://addyo.substack.com/p/14-more-lessons-from-14-years-at"
-status: "4차 복습"
+title: 14 More Lessons from 14 Years at Google
+category: programming
+date: 2026-03-29
+source_url: https-//addyo.substack.com/p/14-more-lessons-from-14-years-at
+status: 4차 복습
 ---
 
 # 14 More Lessons from 14 Years at Google

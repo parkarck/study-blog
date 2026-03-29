@@ -1,9 +1,9 @@
 ---
-title: "Advent of Claude: 31일간의 Claude Code 팁"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://adocomplete.com/advent-of-claude-2025/"
-status: "4차 복습"
+title: Advent of Claude- 31일간의 Claude Code 팁
+category: programming
+date: 2026-03-29
+source_url: https-//adocomplete.com/advent-of-claude-2025/
+status: 4차 복습
 ---
 
 # Advent of Claude: 31일간의 Claude Code 팁

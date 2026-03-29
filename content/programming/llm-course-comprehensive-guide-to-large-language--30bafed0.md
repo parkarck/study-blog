@@ -1,9 +1,9 @@
 ---
-title: "LLM Course: Comprehensive Guide to Large Language Models"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://github.com/mlabonne/llm-course"
-status: "시작 전"
+title: LLM Course- Comprehensive Guide to Large Language Models
+category: programming
+date: 2026-03-29
+source_url: https-//github.com/mlabonne/llm-course
+status: 시작 전
 ---
 
 # LLM Course: Comprehensive Guide to Large Language Models

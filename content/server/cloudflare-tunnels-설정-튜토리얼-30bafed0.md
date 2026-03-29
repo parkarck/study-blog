@@ -1,9 +1,9 @@
 ---
-title: "Cloudflare Tunnels 설정 튜토리얼"
-category: "server"
-date: "2026-03-29"
-source_url: "https://www.youtube.com/watch?v=y8s_Q_0s9TU&t=3s"
-status: "완료"
+title: Cloudflare Tunnels 설정 튜토리얼
+category: server
+date: 2026-03-29
+source_url: https-//www.youtube.com/watch?v=y8s_Q_0s9TU&t=3s
+status: 완료
 ---
 
 # Cloudflare Tunnels 설정 튜토리얼
