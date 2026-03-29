@@ -1,9 +1,9 @@
 ---
-title: "Qwen 3.5 Free API"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://youtu.be/E-cl30d8ZrY?si=_ZIoNBpd14aC9wSd"
-status: "4차 복습"
+title: Qwen 3.5 Free API
+category: programming
+date: 2026-03-29
+source_url: https://youtu.be/E-cl30d8ZrY?si=_ZIoNBpd14aC9wSd
+status: 4차 복습
 ---
 
 # Qwen 3.5 Free API

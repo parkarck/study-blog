@@ -1,9 +1,9 @@
 ---
-title: "통계 초보자 필독! Top 7 확률분포 요약"
-category: "ai"
-date: "2026-03-29"
-source_url: "https://youtu.be/jFv0R5OyT5k"
-status: "완료"
+title: 통계 초보자 필독! Top 7 확률분포 요약
+category: ai
+date: 2026-03-29
+source_url: https://youtu.be/jFv0R5OyT5k
+status: 완료
 ---
 
 # 통계 초보자 필독! Top 7 확률분포 요약

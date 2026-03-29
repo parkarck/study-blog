@@ -1,9 +1,9 @@
 ---
-title: "Excalidraw Diagram Skill"
-category: "programming"
-date: "2026-03-29"
-source_url: "https://github.com/coleam00/excalidraw-diagram-skill"
-status: "시작 전"
+title: Excalidraw Diagram Skill
+category: programming
+date: 2026-03-29
+source_url: https://github.com/coleam00/excalidraw-diagram-skill
+status: 시작 전
 ---
 
 # Excalidraw Diagram Skill
