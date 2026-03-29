@@ -1,9 +1,9 @@
 ---
-title: 'notebooklm-py - NotebookLM Python API'
-category: 'programming'
-date: '2026-03-29'
-source_url: 'https://github.com/teng-lin/notebooklm-py'
-status: '시작 전'
+title: "notebooklm-py - NotebookLM Python API"
+category: "programming"
+date: "2026-03-29"
+source_url: "https://github.com/teng-lin/notebooklm-py"
+status: "시작 전"
 ---
 
 # notebooklm-py - NotebookLM Python API

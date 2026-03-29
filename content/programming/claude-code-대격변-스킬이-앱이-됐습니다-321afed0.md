@@ -1,9 +1,9 @@
 ---
-title: 'Claude Code 대격변, 스킬이 앱이 됐습니다!'
-category: 'programming'
-date: '2026-03-29'
-source_url: 'https://youtu.be/YMT26RopJck?si=Rhwr3VhNEMPCFhU2'
-status: '시작 전'
+title: "Claude Code 대격변, 스킬이 앱이 됐습니다!"
+category: "programming"
+date: "2026-03-29"
+source_url: "https://youtu.be/YMT26RopJck?si=Rhwr3VhNEMPCFhU2"
+status: "시작 전"
 ---
 
 # Claude Code 대격변, 스킬이 앱이 됐습니다!

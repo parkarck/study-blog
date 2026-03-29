@@ -1,9 +1,9 @@
 ---
-title: 'AI 코딩 에이전트 전용 터미널 cmux 소개'
-category: 'programming'
-date: '2026-03-29'
-source_url: 'https://youtu.be/jGj9yCqN08s'
-status: '시작 전'
+title: "AI 코딩 에이전트 전용 터미널 cmux 소개"
+category: "programming"
+date: "2026-03-29"
+source_url: "https://youtu.be/jGj9yCqN08s"
+status: "시작 전"
 ---
 
 # AI 코딩 에이전트 전용 터미널 cmux 소개
