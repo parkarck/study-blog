@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 비용 87% 줄이는 설정 하나 | 코드 한 줄 안 고치고 월 25만원 절약"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-16"
 source_url: "https://youtu.be/f7rbKnSRmqM?si=ftz0vRBjxq-ztzFs"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://youtu.be/f7rbKnSRmqM?si=ftz0vRBjxq-ztzFs](https://youtu.be/f7rbKnSRmqM?si=ftz0vRBjxq-ztzFs)
+
+**Date:** 2026-03-16
 
 ---
 

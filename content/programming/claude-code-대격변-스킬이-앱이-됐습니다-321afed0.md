@@ -1,7 +1,7 @@
 ---
 title: "Claude Code 대격변, 스킬이 앱이 됐습니다!"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-13"
 source_url: "https://youtu.be/YMT26RopJck?si=Rhwr3VhNEMPCFhU2"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://youtu.be/YMT26RopJck?si=Rhwr3VhNEMPCFhU2](https://youtu.be/YMT26RopJck?si=Rhwr3VhNEMPCFhU2)
+
+**Date:** 2026-03-13
 
 ---
 

@@ -12,6 +12,8 @@ status: "시작 전"
 
 **Source:** [https://youtu.be/6iq6CjUJvxc?si=psHFW0niAkGNrOk-](https://youtu.be/6iq6CjUJvxc?si=psHFW0niAkGNrOk-)
 
+**Date:** 2026-03-29
+
 ---
 
 # 클로드 코드로 10분 만에 역대급 디자인의 웹사이트 만드는법 (feat. Variant)

@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw 3주 사용해봤더니 이제 없으면 못 살겠습니다"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-24"
 source_url: "https://youtu.be/-XelCjmjBec"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/-XelCjmjBec](https://youtu.be/-XelCjmjBec)
+
+**Date:** 2026-02-24
 
 ---
 

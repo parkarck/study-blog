@@ -7,90 +7,134 @@ Category page for programming
 ## Entries
 
 - [Neural Networks: Zero to Hero (Building Language Models from Scratch)](neural-networks-zero-to-hero-building-language-m.md)
+  - 2026-02-18
 
 - [FDE와 한국 IT SI 산업 논의](fde와-한국-it-si-산업-논의.md)
+  - 2026-02-18
 
 - [Advent of Claude: 31일간의 Claude Code 팁](advent-of-claude-31일간의-claude-code-팁.md)
+  - 2026-02-19
 
 - [LLM Course: Comprehensive Guide to Large Language Models](llm-course-comprehensive-guide-to-large-language-.md)
+  - 2026-02-18
 
 - [14 More Lessons from 14 Years at Google](14-more-lessons-from-14-years-at-google.md)
+  - 2026-02-18
 
 - [스탠포드가 가르치는 AI시대 창의력 훈련법 | 스탠포드 교수 제레미 어틀리](스탠포드가-가르치는-ai시대-창의력-훈련법--스탠포드-교수-제레미-어틀리.md)
+  - 2026-02-21
 
 - [1인 개발자, 앞으로 이 3가지에 올인합니다.](1인-개발자-앞으로-이-3가지에-올인합니다.md)
+  - 2026-02-20
 
 - [아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다](아직도-rag-쓰세요-이거-보고-나면-멈춥니다.md)
+  - 2026-02-20
 
 - [AI 코딩 및 DDD 도메인 학습 노트](ai-코딩-및-ddd-도메인-학습-노트.md)
+  - 2026-02-22
 
 - [AI 활용 시스템 개발 및 개선 경험](ai-활용-시스템-개발-및-개선-경험.md)
+  - 2026-02-22
 
 - [Cursor를 Next-Level로 활용하는 도구 & 팁 모음 - next-cursor.com](cursor를-next-level로-활용하는-도구--팁-모음---next-cursorc.md)
+  - 2026-02-22
 
 - [개발자가 AI 길들이는 데 6개월 걸린 이유 (시행착오 전부 공개)](개발자가-ai-길들이는-데-6개월-걸린-이유-시행착오-전부-공개.md)
+  - 2026-02-22
 
 - [Qwen 3.5 Free API](qwen-35-free-api.md)
+  - 2026-02-23
 
 - [The 2028 Global Intelligence Crisis](the-2028-global-intelligence-crisis.md)
+  - 2026-02-24
 
 - [클로드를 좋아하는 네 번째 이유](클로드를-좋아하는-네-번째-이유.md)
+  - 2026-02-24
 
 - [OpenClaw 3주 사용해봤더니 이제 없으면 못 살겠습니다](openclaw-3주-사용해봤더니-이제-없으면-못-살겠습니다.md)
+  - 2026-02-24
 
 - [AI가 혼자서 앱을 만든다? Claude Agent Harness의 비밀](ai가-혼자서-앱을-만든다-claude-agent-harness의-비밀.md)
+  - 2026-02-26
 
 - [Cursor 자동 클린 기능 업데이트](cursor-자동-클린-기능-업데이트.md)
+  - 2026-02-25
 
 - [클로드 코드 만든 앤트로픽 CPO의 AI시대 제품 개발론 | 마이크 크리거](클로드-코드-만든-앤트로픽-cpo의-ai시대-제품-개발론--마이크-크리거.md)
+  - 2026-02-26
 
 - [Claude Code의 도구 선택 경향 분석](claude-code의-도구-선택-경향-분석.md)
+  - 2026-03-02
 
 - [정답 잘 찾는 천재들이 제일 먼저 대체되고 있습니다 | 카네기멜론대 수학과 포쉔로 교수](정답-잘-찾는-천재들이-제일-먼저-대체되고-있습니다--카네기멜론대-수학과-포쉔로-교수.md)
+  - 2026-03-02
 
 - [도돌아... 윈도우가 나도 모르게 깔고 있었습니다.](도돌아-윈도우가-나도-모르게-깔고-있었습니다.md)
+  - 2026-03-08
 
 - [수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)](수백-시간-연구해서-만든-claude-code-세팅-여러분은-5분이면-됩니다-무료-공개.md)
+  - 2026-03-09
 
 - [갤럭시S26울트라 27가지 초기세팅 필수설정](갤럭시s26울트라-27가지-초기세팅-필수설정.md)
+  - 2026-03-11
 
 - [AI비서 오픈클로! 누구나 10분 만에 설치하는 완벽가이드](ai비서-오픈클로-누구나-10분-만에-설치하는-완벽가이드.md)
+  - 2026-03-10
 
 - [Claude Code 대격변, 스킬이 앱이 됐습니다!](claude-code-대격변-스킬이-앱이-됐습니다.md)
+  - 2026-03-13
 
 - [Claude Code 비용 87% 줄이는 설정 하나 | 코드 한 줄 안 고치고 월 25만원 절약](claude-code-비용-87-줄이는-설정-하나--코드-한-줄-안-고치고-월-25만원.md)
+  - 2026-03-16
 
 - [메타 엔지니어가 알려주는 에이전틱 엔지니어링 핵심 개념 5가지 총정리](메타-엔지니어가-알려주는-에이전틱-엔지니어링-핵심-개념-5가지-총정리.md)
+  - 2026-03-15
 
 - [한국 AI 커뮤니티 기술 토론 (RAG & ML/NLP 실전)](한국-ai-커뮤니티-기술-토론-rag--mlnlp-실전.md)
+  - 2026-03-16
 
 - [클로드 코드 + 오토리서치 = 자기 개선 AI입니다](클로드-코드--오토리서치--자기-개선-ai입니다.md)
+  - 2026-03-16
 
 - [AI 코딩 에이전트 전용 터미널 cmux 소개](ai-코딩-에이전트-전용-터미널-cmux-소개.md)
+  - 2026-03-18
 
 - [Claude-Mem - Persistent Memory Compression System](claude-mem---persistent-memory-compression-system.md)
+  - 2026-03-19
 
 - [Portal - Self-hosted Relay Network](portal---self-hosted-relay-network.md)
+  - 2026-03-19
 
 - [클로드 코드 x 텔레그램 합체 = 클로드 클로, 설치 가이드(오픈클로 BYE)](클로드-코드-x-텔레그램-합체--클로드-클로-설치-가이드오픈클로-bye.md)
+  - 2026-03-21
 
 - [notebooklm-py - NotebookLM Python API](notebooklm-py---notebooklm-python-api.md)
+  - 2026-03-24
 
 - [TMUX 마스터클래스 | 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ](tmux-마스터클래스--여러분-아직도-tmux-안쓰시면-꼭-봐주시길-바랍니다-ㅠㅠㅠ.md)
+  - 2026-03-26
 
 - [오픈클로를 통해 회사의 모든 워크플로우를 100% 바꿔버린 AI 네이티브 컴퍼니 GPTers 김태현 송다혜님](오픈클로를-통해-회사의-모든-워크플로우를-100-바꿔버린-ai-네이티브-컴퍼니-gpter.md)
+  - 2026-03-26
 
 - [이 방법 모르면 클로드 10%도 못 쓰는겁니다](이-방법-모르면-클로드-10도-못-쓰는겁니다.md)
+  - 2026-03-27
 
 - [하네스 엔지니어링 개념 + 적용사례를 소개합니다.](하네스-엔지니어링-개념--적용사례를-소개합니다.md)
+  - 2026-03-27
 
 - [Excalidraw Diagram Skill](excalidraw-diagram-skill.md)
+  - 2026-03-29
 
 - [클로드 코드 고수들은 이미 쓰고 있는 MCP 4가지 | EP.02](클로드-코드-고수들은-이미-쓰고-있는-mcp-4가지--ep02.md)
+  - 2026-03-29
 
 - [클로드 코드로 10분 만에 역대급 디자인의 웹사이트 만드는법 (feat. Variant)](클로드-코드로-10분-만에-역대급-디자인의-웹사이트-만드는법-feat-variant.md)
+  - 2026-03-29
 
 - [Claudini: New LLM Attacks via Autoresearch](claudini-new-llm-attacks-via-autoresearch.md)
+  - 2026-03-29
 
 - [상위 1% AI 네이티브들은 프롬프트 안쓰고 '하네스 깎기'에 수백시간 투자합니다. (DIO FDE 김지운님)](상위-1-ai-네이티브들은-프롬프트-안쓰고-하네스-깎기에-수백시간-투자합니다-di.md)
+  - 2026-03-29
 

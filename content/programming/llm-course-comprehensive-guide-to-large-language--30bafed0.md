@@ -1,7 +1,7 @@
 ---
 title: "LLM Course: Comprehensive Guide to Large Language Models"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-18"
 source_url: "https://github.com/mlabonne/llm-course"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://github.com/mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+
+**Date:** 2026-02-18
 
 ---
 

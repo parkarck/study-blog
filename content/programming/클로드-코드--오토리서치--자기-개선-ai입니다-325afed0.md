@@ -1,7 +1,7 @@
 ---
 title: "클로드 코드 + 오토리서치 = 자기 개선 AI입니다"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-16"
 source_url: "https://youtu.be/HaAZu5lUkWI?si=9I88dbvhOajpij4g"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://youtu.be/HaAZu5lUkWI?si=9I88dbvhOajpij4g](https://youtu.be/HaAZu5lUkWI?si=9I88dbvhOajpij4g)
+
+**Date:** 2026-03-16
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "오픈클로를 통해 회사의 모든 워크플로우를 100% 바꿔버린 AI 네이티브 컴퍼니 GPTers 김태현 송다혜님"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-26"
 source_url: "https://youtu.be/vatxcwaxuwg?si=bvOj1_JosELAug7d"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/vatxcwaxuwg?si=bvOj1_JosELAug7d](https://youtu.be/vatxcwaxuwg?si=bvOj1_JosELAug7d)
+
+**Date:** 2026-03-26
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "TMUX 마스터클래스 | 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-26"
 source_url: "https://youtu.be/vlg8X0N8z08?si=U-lsXavgi5KFVxAy"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/vlg8X0N8z08?si=U-lsXavgi5KFVxAy](https://youtu.be/vlg8X0N8z08?si=U-lsXavgi5KFVxAy)
+
+**Date:** 2026-03-26
 
 ---
 

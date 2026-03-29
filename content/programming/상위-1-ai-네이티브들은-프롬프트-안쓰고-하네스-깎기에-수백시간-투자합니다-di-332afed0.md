@@ -12,6 +12,8 @@ status: "시작 전"
 
 **Source:** [https://youtu.be/A8PMyC7W_vg?si=LYd-NDcTstJTrP5M](https://youtu.be/A8PMyC7W_vg?si=LYd-NDcTstJTrP5M)
 
+**Date:** 2026-03-29
+
 ---
 
 ## 1. 핵심 주제

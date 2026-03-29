@@ -1,7 +1,7 @@
 ---
 title: "AI 코딩 에이전트 전용 터미널 cmux 소개"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-18"
 source_url: "https://youtu.be/jGj9yCqN08s"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://youtu.be/jGj9yCqN08s](https://youtu.be/jGj9yCqN08s)
+
+**Date:** 2026-03-18
 
 ---
 

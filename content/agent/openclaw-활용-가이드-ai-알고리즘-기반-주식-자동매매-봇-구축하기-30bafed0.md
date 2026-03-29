@@ -1,7 +1,7 @@
 ---
 title: "[OpenClaw 활용 가이드] AI 알고리즘 기반 주식 자동매매 봇 구축하기"
 category: "agent"
-date: "2026-03-29"
+date: "2026-02-18"
 source_url: "https://www.youtube.com/watch?v=CgniMVyJtmg"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** agent
 
 **Source:** [https://www.youtube.com/watch?v=CgniMVyJtmg](https://www.youtube.com/watch?v=CgniMVyJtmg)
+
+**Date:** 2026-02-18
 
 ---
 

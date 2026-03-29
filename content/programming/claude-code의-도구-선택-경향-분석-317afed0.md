@@ -1,7 +1,7 @@
 ---
 title: "Claude Code의 도구 선택 경향 분석"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-02"
 source_url: "https://news.hada.io/topic?id=27056"
 status: "4차 복습"
 ---
@@ -11,6 +11,8 @@ status: "4차 복습"
 **Category:** programming
 
 **Source:** [https://news.hada.io/topic?id=27056](https://news.hada.io/topic?id=27056)
+
+**Date:** 2026-03-02
 
 ---
 

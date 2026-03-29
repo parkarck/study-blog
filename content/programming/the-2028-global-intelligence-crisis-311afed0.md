@@ -1,7 +1,7 @@
 ---
 title: "The 2028 Global Intelligence Crisis"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-24"
 source_url: "https://www.citriniresearch.com/p/2028gic"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://www.citriniresearch.com/p/2028gic](https://www.citriniresearch.com/p/2028gic)
+
+**Date:** 2026-02-24
 
 ---
 

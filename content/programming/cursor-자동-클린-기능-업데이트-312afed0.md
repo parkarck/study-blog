@@ -1,7 +1,7 @@
 ---
 title: "Cursor 자동 클린 기능 업데이트"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-25"
 source_url: "https://youtu.be/ty031hFXsmQ"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/ty031hFXsmQ](https://youtu.be/ty031hFXsmQ)
+
+**Date:** 2026-02-25
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "클로드 코드 만든 앤트로픽 CPO의 AI시대 제품 개발론 | 마이크 크리거"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-26"
 source_url: "https://youtu.be/Zo6M14Gm2Nw?si=MXOWYLzr9v3QLWvx"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/Zo6M14Gm2Nw?si=MXOWYLzr9v3QLWvx](https://youtu.be/Zo6M14Gm2Nw?si=MXOWYLzr9v3QLWvx)
+
+**Date:** 2026-02-26
 
 ---
 

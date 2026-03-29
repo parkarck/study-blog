@@ -12,6 +12,8 @@ status: "시작 전"
 
 **Source:** [https://youtu.be/zmfkWTrJXQQ?si=M9jElCIahVNQjIEm](https://youtu.be/zmfkWTrJXQQ?si=M9jElCIahVNQjIEm)
 
+**Date:** 2026-03-29
+
 ---
 
 # Claudini: New LLM Attacks via Autoresearch

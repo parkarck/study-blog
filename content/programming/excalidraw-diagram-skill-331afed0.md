@@ -12,6 +12,8 @@ status: "시작 전"
 
 **Source:** [https://github.com/coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)
 
+**Date:** 2026-03-29
+
 ---
 
 ## 1. 핵심 주제

@@ -1,7 +1,7 @@
 ---
 title: "AI 착시 관찰 시리즈 1-12: AI 성숙성과 착시, 스케일링부터 사람 검토까지"
 category: "ai"
-date: "2026-03-29"
+date: "2026-02-22"
 source_url: "https://cafe.naver.com/aidev/1392"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** ai
 
 **Source:** [https://cafe.naver.com/aidev/1392](https://cafe.naver.com/aidev/1392)
+
+**Date:** 2026-02-22
 
 ---
 

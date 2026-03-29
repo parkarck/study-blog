@@ -1,7 +1,7 @@
 ---
 title: "AI비서 오픈클로! 누구나 10분 만에 설치하는 완벽가이드"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-10"
 source_url: "https://youtu.be/P5tKfxV35FQ?si=poZrpr_Vv7wu0Mbl"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** programming
 
 **Source:** [https://youtu.be/P5tKfxV35FQ?si=poZrpr_Vv7wu0Mbl](https://youtu.be/P5tKfxV35FQ?si=poZrpr_Vv7wu0Mbl)
+
+**Date:** 2026-03-10
 
 ---
 

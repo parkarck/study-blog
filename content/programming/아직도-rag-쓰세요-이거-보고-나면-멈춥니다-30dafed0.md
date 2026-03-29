@@ -1,7 +1,7 @@
 ---
 title: "아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-20"
 source_url: "https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u"
 status: "처음 학습"
 ---
@@ -11,6 +11,8 @@ status: "처음 학습"
 **Category:** programming
 
 **Source:** [https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u](https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u)
+
+**Date:** 2026-02-20
 
 ---
 

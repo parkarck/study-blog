@@ -1,7 +1,7 @@
 ---
 title: "충격 기능! 클로드 제국이 완성된다! Claude Chat 시각화! 대화 중에 주식 시각화 AI 에이전트까지 | 오후다섯씨"
 category: "claude"
-date: "2026-03-29"
+date: "2026-03-14"
 source_url: "https://youtu.be/Wo7UTCzzAGo?si=hU2x_hzTJ4dtTe50"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** claude
 
 **Source:** [https://youtu.be/Wo7UTCzzAGo?si=hU2x_hzTJ4dtTe50](https://youtu.be/Wo7UTCzzAGo?si=hU2x_hzTJ4dtTe50)
+
+**Date:** 2026-03-14
 
 ---
 

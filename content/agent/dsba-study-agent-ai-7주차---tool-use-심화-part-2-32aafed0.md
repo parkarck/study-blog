@@ -1,7 +1,7 @@
 ---
 title: "[DSBA Study] Agent AI 7주차 - Tool use 심화 Part 2"
 category: "agent"
-date: "2026-03-29"
+date: "2026-03-21"
 source_url: "https://youtu.be/ulsBDe8I6aM?si=nomPX-acd0zRGg6u"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** agent
 
 **Source:** [https://youtu.be/ulsBDe8I6aM?si=nomPX-acd0zRGg6u](https://youtu.be/ulsBDe8I6aM?si=nomPX-acd0zRGg6u)
+
+**Date:** 2026-03-21
 
 ---
 

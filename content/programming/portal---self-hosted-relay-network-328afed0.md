@@ -1,7 +1,7 @@
 ---
 title: "Portal - Self-hosted Relay Network"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-19"
 source_url: "https://github.com/gosuda/portal"
 status: "시작 전"
 ---
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://github.com/gosuda/portal](https://github.com/gosuda/portal)
+
+**Date:** 2026-03-19
 
 ---
 

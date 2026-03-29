@@ -1,7 +1,7 @@
 ---
 title: "폴더 하나로 AI를 우리 팀 전문가로 만드는 법"
 category: "ai"
-date: "2026-03-29"
+date: "2026-03-08"
 source_url: "https://youtu.be/yXKFQzeRiSY?si=NUgM1LLfS1MTz-aI"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** ai
 
 **Source:** [https://youtu.be/yXKFQzeRiSY?si=NUgM1LLfS1MTz-aI](https://youtu.be/yXKFQzeRiSY?si=NUgM1LLfS1MTz-aI)
+
+**Date:** 2026-03-08
 
 ---
 

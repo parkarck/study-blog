@@ -1,13 +1,15 @@
 ---
 title: "한국 AI 커뮤니티 기술 토론 (RAG & ML/NLP 실전)"
 category: "programming"
-date: "2026-03-29"
+date: "2026-03-16"
 status: "완료"
 ---
 
 # 한국 AI 커뮤니티 기술 토론 (RAG & ML/NLP 실전)
 
 **Category:** programming
+
+**Date:** 2026-03-16
 
 ---
 

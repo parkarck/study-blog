@@ -1,7 +1,7 @@
 ---
 title: "14 More Lessons from 14 Years at Google"
 category: "programming"
-date: "2026-03-29"
+date: "2026-02-18"
 source_url: "https://addyo.substack.com/p/14-more-lessons-from-14-years-at"
 status: "4차 복습"
 ---
@@ -11,6 +11,8 @@ status: "4차 복습"
 **Category:** programming
 
 **Source:** [https://addyo.substack.com/p/14-more-lessons-from-14-years-at](https://addyo.substack.com/p/14-more-lessons-from-14-years-at)
+
+**Date:** 2026-02-18
 
 ---
 

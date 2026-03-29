@@ -3,7 +3,7 @@ title: "클로드 코드 고수들은 이미 쓰고 있는 MCP 4가지 | EP.02"
 category: "programming"
 date: "2026-03-29"
 source_url: "https://youtu.be/Pbtp17aZ7k4?si=l8_UOXDuSjc4uoGj"
-status: "시작 전"
+status: "완료"
 ---
 
 # 클로드 코드 고수들은 이미 쓰고 있는 MCP 4가지 | EP.02
@@ -11,6 +11,8 @@ status: "시작 전"
 **Category:** programming
 
 **Source:** [https://youtu.be/Pbtp17aZ7k4?si=l8_UOXDuSjc4uoGj](https://youtu.be/Pbtp17aZ7k4?si=l8_UOXDuSjc4uoGj)
+
+**Date:** 2026-03-29
 
 ---
 

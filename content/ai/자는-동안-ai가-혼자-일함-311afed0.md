@@ -1,7 +1,7 @@
 ---
 title: "자는 동안 AI가 혼자 일함"
 category: "ai"
-date: "2026-03-29"
+date: "2026-02-24"
 source_url: "https://youtu.be/p7Tjk3amiKs"
 status: "완료"
 ---
@@ -11,6 +11,8 @@ status: "완료"
 **Category:** ai
 
 **Source:** [https://youtu.be/p7Tjk3amiKs](https://youtu.be/p7Tjk3amiKs)
+
+**Date:** 2026-02-24
 
 ---
 
