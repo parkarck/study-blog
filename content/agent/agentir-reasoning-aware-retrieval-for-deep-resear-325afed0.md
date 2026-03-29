@@ -1,12 +1,12 @@
 ---
-title: AgentIR: Reasoning-Aware Retrieval for Deep Research Agents
-category: agent
-date: 2026-03-29
-source_url: https://texttron.github.io/AgentIR/
-status: 완료
+title - AgentIR - Reasoning-Aware Retrieval for Deep Research Agents
+category - agent
+date - 2026-03-29
+source_url - https://texttron.github.io/AgentIR/
+status - 완료
 ---
 
-# AgentIR: Reasoning-Aware Retrieval for Deep Research Agents
+# AgentIR - Reasoning-Aware Retrieval for Deep Research Agents
 
 **Category:** agent
 
@@ -14,13 +14,13 @@ status: 완료
 
 ---
 
-# AgentIR: Reasoning-Aware Retrieval for Deep Research Agents
+# AgentIR - Reasoning-Aware Retrieval for Deep Research Agents
 
 
 
 ## 1. 핵심 주제
 
-- **목표**: Deep Research 에이전트의 효율성을 높이기 위해 Reasoning-Aware Retrieval 패러다임을 제안하고, AgentIR-4B 모델을 통해 성능을 입증함.
+- **목표** - Deep Research 에이전트의 효율성을 높이기 위해 Reasoning-Aware Retrieval 패러다임을 제안하고, AgentIR-4B 모델을 통해 성능을 입증함.
 
 
 
@@ -30,11 +30,11 @@ status: 완료
 
 ### 정의 및 원리
 
-- **Deep Research 에이전트**: 검색을 수행하면서 자연어 추론을 생성하여 의도와 맥락 정보를 풍부하게 제공하는 에이전트.
+- **Deep Research 에이전트** - 검색을 수행하면서 자연어 추론을 생성하여 의도와 맥락 정보를 풍부하게 제공하는 에이전트.
 
-- **Reasoning-Aware Retrieval**: 에이전트가 생성하는 추론 흔적과 쿼리를 함께 임베딩하여 검색 정확성을 높이는 접근 방식.
+- **Reasoning-Aware Retrieval** - 에이전트가 생성하는 추론 흔적과 쿼리를 함께 임베딩하여 검색 정확성을 높이는 접근 방식.
 
-- **DR-Synth**: 기존 QA 데이터셋에서 Deep Research 검색 훈련 데이터를 생성하는 데이터 합성 방법.
+- **DR-Synth** - 기존 QA 데이터셋에서 Deep Research 검색 훈련 데이터를 생성하는 데이터 합성 방법.
 
 
 
@@ -60,21 +60,21 @@ status: 완료
 
 ### Reasoning-Aware Retrieval
 
-- **작동 방식**: 쿼리와 함께 에이전트의 추론 흔적을 임베딩하여 검색자의 의도를 명확하게 파악.
+- **작동 방식** - 쿼리와 함께 에이전트의 추론 흔적을 임베딩하여 검색자의 의도를 명확하게 파악.
 
 - **효과**:
 
-  - **작업 의도 명확화**: 모호한 쿼리의 의도를 추론 흔적을 통해 명확히 하여 검색 성능 향상.
+  - **작업 의도 명확화** - 모호한 쿼리의 의도를 추론 흔적을 통해 명확히 하여 검색 성능 향상.
 
-  - **이전 결과의 반영**: 이전 검색 결과를 반영하여 검색 공간을 좁힘.
+  - **이전 결과의 반영** - 이전 검색 결과를 반영하여 검색 공간을 좁힘.
 
-  - **가설적 검색 대상 도출**: 에이전트의 지식을 활용하여 잠재적 검색 대상을 추론하고 검색 범위를 줄임.
+  - **가설적 검색 대상 도출** - 에이전트의 지식을 활용하여 잠재적 검색 대상을 추론하고 검색 범위를 줄임.
 
 
 
 ### DR-Synth
 
-- **작동 방식**: 기존 QA 데이터셋에서 에이전트의 하위 쿼리 수준 훈련 데이터를 생성.
+- **작동 방식** - 기존 QA 데이터셋에서 에이전트의 하위 쿼리 수준 훈련 데이터를 생성.
 
 - **과정**:
 
@@ -86,7 +86,7 @@ status: 완료
 
 ## 4. 예시 / 적용
 
-- **BrowseComp-Plus 벤치마크**: 다양한 에이전트와 리트리버 조합을 통해 Reasoning-Aware Retrieval의 우수성을 입증.
+- **BrowseComp-Plus 벤치마크** - 다양한 에이전트와 리트리버 조합을 통해 Reasoning-Aware Retrieval의 우수성을 입증.
 
 
 
