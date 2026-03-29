@@ -1,13 +1,13 @@
 ---
 title: "Portal - Self-hosted Relay Network"
-category: "Programming"
+category: "programming"
 date: "2026-03-29"
 source_url: "https://github.com/gosuda/portal"
 ---
 
 # Portal - Self-hosted Relay Network
 
-**Category:** Programming
+**Category:** programming
 
 **Source:** [https://github.com/gosuda/portal](https://github.com/gosuda/portal)
 

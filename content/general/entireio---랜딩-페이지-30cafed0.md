@@ -1,13 +1,13 @@
 ---
 title: "Entire.io - 랜딩 페이지"
-category: "General"
+category: "general"
 date: "2026-03-29"
 source_url: "https://entire.io/"
 ---
 
 # Entire.io - 랜딩 페이지
 
-**Category:** General
+**Category:** general
 
 **Source:** [https://entire.io/](https://entire.io/)
 

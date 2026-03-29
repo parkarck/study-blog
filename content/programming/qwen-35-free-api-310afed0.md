@@ -1,13 +1,13 @@
 ---
 title: "Qwen 3.5 Free API"
-category: "Programming"
+category: "programming"
 date: "2026-03-29"
 source_url: "https://youtu.be/E-cl30d8ZrY?si=_ZIoNBpd14aC9wSd"
 ---
 
 # Qwen 3.5 Free API
 
-**Category:** Programming
+**Category:** programming
 
 **Source:** [https://youtu.be/E-cl30d8ZrY?si=_ZIoNBpd14aC9wSd](https://youtu.be/E-cl30d8ZrY?si=_ZIoNBpd14aC9wSd)
 

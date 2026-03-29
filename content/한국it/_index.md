@@ -1,12 +1,10 @@
-# 한국IT
+# 한국it
 
-Category page for 한국IT
+Category page for 한국it
 
 ---
 
 ## Entries
-
-- [FDE와 한국 IT SI 산업 논의](fde와-한국-it-si-산업-논의.md)
 
 - [[미·이란 교전 이후 한국 증시 시나리오]
 

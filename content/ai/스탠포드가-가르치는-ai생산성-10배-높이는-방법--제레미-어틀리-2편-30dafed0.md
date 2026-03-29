@@ -1,13 +1,13 @@
 ---
 title: "스탠포드가 가르치는 AI생산성 10배 높이는 방법 | 제레미 어틀리 2편"
-category: "AI"
+category: "ai"
 date: "2026-03-29"
 source_url: "https://youtu.be/jDJZxERIhnc?si=cDrLD09WNYbr9NEF"
 ---
 
 # 스탠포드가 가르치는 AI생산성 10배 높이는 방법 | 제레미 어틀리 2편
 
-**Category:** AI
+**Category:** ai
 
 **Source:** [https://youtu.be/jDJZxERIhnc?si=cDrLD09WNYbr9NEF](https://youtu.be/jDJZxERIhnc?si=cDrLD09WNYbr9NEF)
 

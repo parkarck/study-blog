@@ -1,13 +1,13 @@
 ---
 title: "ToolLLM & ToolRetro: AI Agent Tool Use Optimization (DSBA Study Week 7)"
-category: "LLM"
+category: "llm"
 date: "2026-03-29"
 source_url: "https://youtu.be/yrMkr0ylmmU"
 ---
 
 # ToolLLM & ToolRetro: AI Agent Tool Use Optimization (DSBA Study Week 7)
 
-**Category:** LLM
+**Category:** llm
 
 **Source:** [https://youtu.be/yrMkr0ylmmU](https://youtu.be/yrMkr0ylmmU)
 

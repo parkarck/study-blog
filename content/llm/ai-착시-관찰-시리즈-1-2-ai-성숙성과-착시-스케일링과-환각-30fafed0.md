@@ -1,13 +1,13 @@
 ---
 title: "AI 착시 관찰 시리즈 1-2: AI 성숙성과 착시, 스케일링과 환각"
-category: "LLM"
+category: "llm"
 date: "2026-03-29"
 source_url: "https://cafe.naver.com/aidev/1392"
 ---
 
 # AI 착시 관찰 시리즈 1-2: AI 성숙성과 착시, 스케일링과 환각
 
-**Category:** LLM
+**Category:** llm
 
 **Source:** [https://cafe.naver.com/aidev/1392](https://cafe.naver.com/aidev/1392)
 

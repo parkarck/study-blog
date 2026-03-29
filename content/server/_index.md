@@ -1,6 +1,6 @@
-# Server
+# server
 
-Category page for Server
+Category page for server
 
 ---
 

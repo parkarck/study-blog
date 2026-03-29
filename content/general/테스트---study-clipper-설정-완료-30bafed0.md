@@ -1,13 +1,13 @@
 ---
 title: "테스트 - Study Clipper 설정 완료"
-category: "General"
+category: "general"
 date: "2026-03-29"
 source_url: "https://test.local"
 ---
 
 # 테스트 - Study Clipper 설정 완료
 
-**Category:** General
+**Category:** general
 
 **Source:** [https://test.local](https://test.local)
 

@@ -1,13 +1,13 @@
 ---
 title: "LowEndBox - 저가 VPS 및 전용 서버 오퍼 비교"
-category: "AI"
+category: "ai"
 date: "2026-03-29"
 source_url: "https://lowendbox.com/"
 ---
 
 # LowEndBox - 저가 VPS 및 전용 서버 오퍼 비교
 
-**Category:** AI
+**Category:** ai
 
 **Source:** [https://lowendbox.com/](https://lowendbox.com/)
 

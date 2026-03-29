@@ -1,6 +1,6 @@
-# Security
+# security
 
-Category page for Security
+Category page for security
 
 ---
 

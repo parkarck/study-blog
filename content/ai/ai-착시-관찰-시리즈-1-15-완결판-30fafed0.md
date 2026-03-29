@@ -1,13 +1,13 @@
 ---
 title: "AI 착시 관찰 시리즈 1-15: 완결판"
-category: "AI"
+category: "ai"
 date: "2026-03-29"
 source_url: "https://cafe.naver.com/aidev/1392"
 ---
 
 # AI 착시 관찰 시리즈 1-15: 완결판
 
-**Category:** AI
+**Category:** ai
 
 **Source:** [https://cafe.naver.com/aidev/1392](https://cafe.naver.com/aidev/1392)
 

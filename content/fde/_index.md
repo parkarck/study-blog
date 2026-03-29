@@ -1,12 +1,10 @@
-# FDE
+# fde
 
-Category page for FDE
+Category page for fde
 
 ---
 
 ## Entries
-
-- [1인 개발자, 앞으로 이 3가지에 올인합니다.](1인-개발자-앞으로-이-3가지에-올인합니다.md)
 
 - [다들 죽기살기 모드 (실리콘밸리)](다들-죽기살기-모드-실리콘밸리.md)
 
