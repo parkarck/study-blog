@@ -1,5 +1,5 @@
 ---
-title: "AI 착시 관찰 시리즈 1-10\: AI 성숙성과 착시, 스케일링부터 승인까지"
+title: "AI 착시 관찰 시리즈 1-10: AI 성숙성과 착시, 스케일링부터 승인까지"
 category: "ai"
 date: "2026-03-29"
 source_url: "https://cafe.naver.com/aidev/1392"

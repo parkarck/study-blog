@@ -1,5 +1,5 @@
 ---
-title: "LLM Course\: Comprehensive Guide to Large Language Models"
+title: "LLM Course: Comprehensive Guide to Large Language Models"
 category: "programming"
 date: "2026-03-29"
 source_url: "https://github.com/mlabonne/llm-course"
