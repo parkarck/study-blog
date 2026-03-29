@@ -1,9 +1,9 @@
 ---
-title: 테스트 - Study Clipper 설정 완료
-category: general
-date: 2026-03-29
-source_url: https-//test.local
-status: 완료
+title: '테스트 - Study Clipper 설정 완료'
+category: 'general'
+date: '2026-03-29'
+source_url: 'https://test.local'
+status: '완료'
 ---
 
 # 테스트 - Study Clipper 설정 완료

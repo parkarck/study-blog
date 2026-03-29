@@ -1,9 +1,9 @@
 ---
-title: AI 활용 시스템 개발 및 개선 경험
-category: programming
-date: 2026-03-29
-source_url: https-//youtu.be/tcDoacn64Lo?si=x7m2NIB-VaEMovj6
-status: 완료
+title: 'AI 활용 시스템 개발 및 개선 경험'
+category: 'programming'
+date: '2026-03-29'
+source_url: 'https://youtu.be/tcDoacn64Lo?si=x7m2NIB-VaEMovj6'
+status: '완료'
 ---
 
 # AI 활용 시스템 개발 및 개선 경험

@@ -1,9 +1,9 @@
 ---
-title: Neural Networks- Zero to Hero (Building Language Models from Scratch)
-category: programming
-date: 2026-03-29
-source_url: https-//github.com/rasbt/LLMs-from-scratch
-status: 완료
+title: 'Neural Networks: Zero to Hero (Building Language Models from Scratch)'
+category: 'programming'
+date: '2026-03-29'
+source_url: 'https://github.com/rasbt/LLMs-from-scratch'
+status: '완료'
 ---
 
 # Neural Networks: Zero to Hero (Building Language Models from Scratch)

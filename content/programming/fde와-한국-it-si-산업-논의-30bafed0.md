@@ -1,8 +1,8 @@
 ---
-title: FDE와 한국 IT SI 산업 논의
-category: programming
-date: 2026-03-29
-status: 완료
+title: 'FDE와 한국 IT SI 산업 논의'
+category: 'programming'
+date: '2026-03-29'
+status: '완료'
 ---
 
 # FDE와 한국 IT SI 산업 논의

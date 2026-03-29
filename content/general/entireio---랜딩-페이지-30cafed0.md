@@ -1,9 +1,9 @@
 ---
-title: Entire.io - 랜딩 페이지
-category: general
-date: 2026-03-29
-source_url: https-//entire.io/
-status: 완료
+title: 'Entire.io - 랜딩 페이지'
+category: 'general'
+date: '2026-03-29'
+source_url: 'https://entire.io/'
+status: '완료'
 ---
 
 # Entire.io - 랜딩 페이지

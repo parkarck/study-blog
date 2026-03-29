@@ -1,9 +1,9 @@
 ---
-title: 클로드 코드 만든 앤트로픽 CPO의 AI시대 제품 개발론 | 마이크 크리거
-category: programming
-date: 2026-03-29
-source_url: https-//youtu.be/Zo6M14Gm2Nw?si=MXOWYLzr9v3QLWvx
-status: 완료
+title: '클로드 코드 만든 앤트로픽 CPO의 AI시대 제품 개발론 | 마이크 크리거'
+category: 'programming'
+date: '2026-03-29'
+source_url: 'https://youtu.be/Zo6M14Gm2Nw?si=MXOWYLzr9v3QLWvx'
+status: '완료'
 ---
 
 # 클로드 코드 만든 앤트로픽 CPO의 AI시대 제품 개발론 | 마이크 크리거

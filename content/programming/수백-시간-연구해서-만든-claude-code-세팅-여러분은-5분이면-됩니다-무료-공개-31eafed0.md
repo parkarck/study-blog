@@ -1,9 +1,9 @@
 ---
-title: 수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)
-category: programming
-date: 2026-03-29
-source_url: https-//youtu.be/3lMjX5Gq1zE?si=A6tQo-g9BwfNE6xc
-status: 시작 전
+title: '수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)'
+category: 'programming'
+date: '2026-03-29'
+source_url: 'https://youtu.be/3lMjX5Gq1zE?si=A6tQo-g9BwfNE6xc'
+status: '시작 전'
 ---
 
 # 수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)
