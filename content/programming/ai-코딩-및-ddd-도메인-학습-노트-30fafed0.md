@@ -2,6 +2,7 @@
 title: "AI 코딩 및 DDD 도메인 학습 노트"
 category: "programming"
 date: "2026-03-29"
+status: "완료"
 ---
 
 # AI 코딩 및 DDD 도메인 학습 노트

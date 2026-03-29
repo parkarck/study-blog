@@ -6,7 +6,7 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 71
+- Total entries: 70
 - Categories: 11
 
 ---
@@ -18,7 +18,7 @@ Collection of study materials and notes organized by category.
 - [claude](claude/) (2 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (2 entries)
-- [llm](llm/) (7 entries)
+- [llm](llm/) (6 entries)
 - [programming](programming/) (40 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
