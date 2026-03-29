@@ -1,9 +1,9 @@
 ---
-title: The 2028 Global Intelligence Crisis
-category: programming
-date: 2026-03-29
-source_url: https://www.citriniresearch.com/p/2028gic
-status: 완료
+title: "The 2028 Global Intelligence Crisis"
+category: "programming"
+date: "2026-03-29"
+source_url: "https://www.citriniresearch.com/p/2028gic"
+status: "완료"
 ---
 
 # The 2028 Global Intelligence Crisis

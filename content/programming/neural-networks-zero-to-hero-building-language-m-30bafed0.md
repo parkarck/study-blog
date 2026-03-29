@@ -1,12 +1,12 @@
 ---
-title - Neural Networks - Zero to Hero (Building Language Models from Scratch)
-category - programming
-date - 2026-03-29
-source_url - https://github.com/rasbt/LLMs-from-scratch
-status - 완료
+title: "Neural Networks: Zero to Hero (Building Language Models from Scratch)"
+category: "programming"
+date: "2026-03-29"
+source_url: "https://github.com/rasbt/LLMs-from-scratch"
+status: "완료"
 ---
 
-# Neural Networks - Zero to Hero (Building Language Models from Scratch)
+# Neural Networks: Zero to Hero (Building Language Models from Scratch)
 
 **Category:** programming
 
@@ -14,11 +14,11 @@ status - 완료
 
 ---
 
-# Neural Networks - Zero to Hero (Building Language Models from Scratch)
+# Neural Networks: Zero to Hero (Building Language Models from Scratch)
 
 
 
-Andrej Karpathy의 "Neural Networks - Zero to Hero" 책을 기반으로, 고급 라이브러리(TensorFlow, PyTorch) 없이 Python을 사용해 신경망을 기초부터 구축하는 방법을 학습합니다.
+Andrej Karpathy의 "Neural Networks: Zero to Hero" 책을 기반으로, 고급 라이브러리(TensorFlow, PyTorch) 없이 Python을 사용해 신경망을 기초부터 구축하는 방법을 학습합니다.
 
 
 
@@ -26,15 +26,15 @@ Andrej Karpathy의 "Neural Networks - Zero to Hero" 책을 기반으로, 고급 
 
 
 
-1.  **Neural Networks & Deep Learning** - AI 혁신의 핵심 기술로, 다층 신경망(Deep Learning)이 컴퓨터 비전/음성 인식/NLP에서 뛰어난 성능을 발휘합니다.
+1.  **Neural Networks & Deep Learning**: AI 혁신의 핵심 기술로, 다층 신경망(Deep Learning)이 컴퓨터 비전/음성 인식/NLP에서 뛰어난 성능을 발휘합니다.
 
-2.  **Micrograd (Autograd)** - 자동 미분(Autograd) 엔진을 직접 구현하여 신경망의 역전파(Backpropagation) 기초를 교육적으로 학습합니다.
+2.  **Micrograd (Autograd)**: 자동 미분(Autograd) 엔진을 직접 구현하여 신경망의 역전파(Backpropagation) 기초를 교육적으로 학습합니다.
 
-3.  **Makemore (MLP)** - MLP(Multi-layer Perceptron)를 사용하여 문자 단위 언어 모델(Language Model)을 수행하고 텍스트를 생성합니다.
+3.  **Makemore (MLP)**: MLP(Multi-layer Perceptron)를 사용하여 문자 단위 언어 모델(Language Model)을 수행하고 텍스트를 생성합니다.
 
-4.  **NanoGPT** - 작은 텍스트 데이터셋을 통해 GPT 모델을 구현하고, 모델의 작동 원리를 이해하게 합니다.
+4.  **NanoGPT**: 작은 텍스트 데이터셋을 통해 GPT 모델을 구현하고, 모델의 작동 원리를 이해하게 합니다.
 
-5.  **Transformer** - 자연어 처리 분야에서 혁신적인 성능을 발휘시키는 모델의 핵심 아키텍처를 구현합니다.
+5.  **Transformer**: 자연어 처리 분야에서 혁신적인 성능을 발휘시키는 모델의 핵심 아키텍처를 구현합니다.
 
 
 
