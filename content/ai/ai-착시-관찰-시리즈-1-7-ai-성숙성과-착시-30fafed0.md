@@ -1,5 +1,5 @@
 ---
-title: "AI 착시 관찰 시리즈 1-7: AI 성숙성과 착시"
+title: "AI 착시 관찰 시리즈 1-7\: AI 성숙성과 착시"
 category: "ai"
 date: "2026-03-29"
 source_url: "https://cafe.naver.com/aidev/1392"
