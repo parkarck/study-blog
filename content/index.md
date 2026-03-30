@@ -6,7 +6,7 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 75
+- Total entries: 77
 - Categories: 11
 
 ---
@@ -19,7 +19,7 @@ Collection of study materials and notes organized by category.
 - [fde](fde/) (1 entries)
 - [general](general/) (2 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (45 entries)
+- [programming](programming/) (47 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -29,6 +29,10 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [테디주주총회 3.29 하네스](programming/테디주주총회-329-하네스.md)
+  - 2026-03-30
+- [영업대표의 오픈클로 활용법 (구글 서비스 연동, 슬랙봇 세팅)](programming/영업대표의-오픈클로-활용법-구글-서비스-연동-슬랙봇-세팅.md)
+  - 2026-03-30
 - [Excalidraw Diagram Skill](programming/excalidraw-diagram-skill.md)
   - 2026-03-29
 - [클로드 코드 고수들은 이미 쓰고 있는 MCP 4가지 | EP.02](programming/클로드-코드-고수들은-이미-쓰고-있는-mcp-4가지--ep02.md)
@@ -45,7 +49,3 @@ Collection of study materials and notes organized by category.
   - 2026-03-28
 - [이 방법 모르면 클로드 10%도 못 쓰는겁니다](programming/이-방법-모르면-클로드-10도-못-쓰는겁니다.md)
   - 2026-03-27
-- [하네스 엔지니어링 개념 + 적용사례를 소개합니다.](programming/하네스-엔지니어링-개념--적용사례를-소개합니다.md)
-  - 2026-03-27
-- [TMUX 마스터클래스 | 여러분 아직도 tmux 안쓰시면 꼭 봐주시길 바랍니다 ㅠㅠㅠ](programming/tmux-마스터클래스--여러분-아직도-tmux-안쓰시면-꼭-봐주시길-바랍니다-ㅠㅠㅠ.md)
-  - 2026-03-26

@@ -3,7 +3,7 @@ title: "AgentIR: Reasoning-Aware Retrieval for Deep Research Agents"
 category: "agent"
 date: "2026-03-17"
 source_url: "https://arxiv.org/abs/2603.04384"
-status: "시작 전"
+status: "완료"
 ---
 
 # AgentIR: Reasoning-Aware Retrieval for Deep Research Agents

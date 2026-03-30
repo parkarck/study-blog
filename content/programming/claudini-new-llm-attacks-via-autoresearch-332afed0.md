@@ -3,7 +3,7 @@ title: "Claudini: New LLM Attacks via Autoresearch"
 category: "programming"
 date: "2026-03-29"
 source_url: "https://youtu.be/zmfkWTrJXQQ?si=M9jElCIahVNQjIEm"
-status: "시작 전"
+status: "완료"
 ---
 
 # Claudini: New LLM Attacks via Autoresearch

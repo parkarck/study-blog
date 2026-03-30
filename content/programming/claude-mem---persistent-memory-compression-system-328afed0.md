@@ -3,7 +3,7 @@ title: "Claude-Mem - Persistent Memory Compression System"
 category: "programming"
 date: "2026-03-19"
 source_url: "https://docs.claude-mem.ai/introduction"
-status: "시작 전"
+status: "완료"
 ---
 
 # Claude-Mem - Persistent Memory Compression System

@@ -3,7 +3,7 @@ title: "CLAUDE.md로 AI 코딩 품질 3배 향상"
 category: "claude"
 date: "2026-03-18"
 source_url: "https://youtu.be/cZ8_Dkk_Ce0"
-status: "시작 전"
+status: "처음 학습"
 ---
 
 # CLAUDE.md로 AI 코딩 품질 3배 향상

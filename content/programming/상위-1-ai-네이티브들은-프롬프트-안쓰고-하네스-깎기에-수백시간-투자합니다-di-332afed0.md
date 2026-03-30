@@ -3,7 +3,7 @@ title: "상위 1% AI 네이티브들은 프롬프트 안쓰고 '하네스 깎기
 category: "programming"
 date: "2026-03-29"
 source_url: "https://youtu.be/A8PMyC7W_vg?si=LYd-NDcTstJTrP5M"
-status: "시작 전"
+status: "완료"
 ---
 
 # 상위 1% AI 네이티브들은 프롬프트 안쓰고 '하네스 깎기'에 수백시간 투자합니다. (DIO FDE 김지운님)
