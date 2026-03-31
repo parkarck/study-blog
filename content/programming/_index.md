@@ -147,3 +147,15 @@ Category page for programming
 - [영업대표의 오픈클로 활용법 (구글 서비스 연동, 슬랙봇 세팅)](영업대표의-오픈클로-활용법-구글-서비스-연동-슬랙봇-세팅.md)
   - 2026-03-30
 
+- [Apache Airflow AGENTS.md](apache-airflow-agentsmd.md)
+  - 2026-03-30
+
+- [Subagent-Driven Development와 Subagent-Orchestrator 패턴](subagent-driven-development와-subagent-orchestrator.md)
+  - 2026-03-30
+
+- [클로드 AI, 비싼 챗봇으로만 쓰지 마세요! 숨겨진 11가지 기능으로 '자동화 공장' 만드세요](클로드-ai-비싼-챗봇으로만-쓰지-마세요-숨겨진-11가지-기능으로-자동화-공장-만드.md)
+  - 2026-04-01
+
+- [모르면 진짜 개손해... AI로 회사 운영 해주는 Paper Clip. 심지어 무료 오픈소스](모르면-진짜-개손해-ai로-회사-운영-해주는-paper-clip-심지어-무료-오픈소.md)
+  - 2026-03-31
+
