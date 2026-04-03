@@ -171,3 +171,9 @@ Category page for programming
 - [AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기](ai-에이전트를-회사처럼-굴려봤습니다--paperclip-실전-후기.md)
   - 2026-04-02
 
+- [Mofit iOS App](mofit-ios-app.md)
+  - 2026-04-03
+
+- [k-skill](k-skill.md)
+  - 2026-04-03
+

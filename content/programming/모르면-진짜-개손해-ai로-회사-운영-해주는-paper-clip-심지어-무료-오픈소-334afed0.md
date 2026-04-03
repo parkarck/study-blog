@@ -3,7 +3,7 @@ title: "모르면 진짜 개손해... AI로 회사 운영 해주는 Paper Clip. 
 category: "programming"
 date: "2026-03-31"
 source_url: "https://youtu.be/Am5y6x-erJs?si=MjdIblMUJ8pgHxo2"
-status: "시작 전"
+status: "완료"
 ---
 
 # 모르면 진짜 개손해... AI로 회사 운영 해주는 Paper Clip. 심지어 무료 오픈소스

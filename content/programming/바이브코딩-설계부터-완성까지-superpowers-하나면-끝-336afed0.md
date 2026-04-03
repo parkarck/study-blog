@@ -3,7 +3,7 @@ title: "바이브코딩 설계부터 완성까지, Superpowers 하나면 끝!"
 category: "programming"
 date: "2026-04-02"
 source_url: "https://youtu.be/4ZYIBTB-Bxk?si=wvenr7--gEzyLkFQ"
-status: "시작 전"
+status: "완료"
 ---
 
 # 바이브코딩 설계부터 완성까지, Superpowers 하나면 끝!

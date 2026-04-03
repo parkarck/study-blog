@@ -6,7 +6,7 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 86
+- Total entries: 89
 - Categories: 11
 
 ---
@@ -15,11 +15,11 @@ Collection of study materials and notes organized by category.
 
 - [agent](agent/) (4 entries)
 - [ai](ai/) (11 entries)
-- [claude](claude/) (2 entries)
+- [claude](claude/) (3 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (55 entries)
+- [programming](programming/) (57 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -30,6 +30,12 @@ Collection of study materials and notes organized by category.
 ## Recent Entries
 
 - [페르소나 추출 방법](general/페르소나-추출-방법.md)
+  - 2026-04-03
+- [Mofit iOS App](programming/mofit-ios-app.md)
+  - 2026-04-03
+- [AI 잘쓰는 사람들이 요즘 클로드 스킬에 미쳐있는 이유 | 클로드 쓴다면 무조건 이 기능 쓰셔야합니다 (200% 활용법 전부 공개)](claude/ai-잘쓰는-사람들이-요즘-클로드-스킬에-미쳐있는-이유--클로드-쓴다면-무조건-이-기능-.md)
+  - 2026-04-03
+- [k-skill](programming/k-skill.md)
   - 2026-04-03
 - ["딱 3년만 미친듯이 해보세요" 2조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법)](programming/딱-3년만-미친듯이-해보세요-2조-기업-회장이-말하는-ai-시대의-진짜-생존-공식-f.md)
   - 2026-04-02
@@ -43,9 +49,3 @@ Collection of study materials and notes organized by category.
   - 2026-04-01
 - [모르면 진짜 개손해... AI로 회사 운영 해주는 Paper Clip. 심지어 무료 오픈소스](programming/모르면-진짜-개손해-ai로-회사-운영-해주는-paper-clip-심지어-무료-오픈소.md)
   - 2026-03-31
-- [테디주주총회 3.29 하네스](programming/테디주주총회-329-하네스.md)
-  - 2026-03-30
-- [영업대표의 오픈클로 활용법 (구글 서비스 연동, 슬랙봇 세팅)](programming/영업대표의-오픈클로-활용법-구글-서비스-연동-슬랙봇-세팅.md)
-  - 2026-03-30
-- [Apache Airflow AGENTS.md](programming/apache-airflow-agentsmd.md)
-  - 2026-03-30
