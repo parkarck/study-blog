@@ -6,7 +6,7 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 89
+- Total entries: 95
 - Categories: 11
 
 ---
@@ -15,11 +15,11 @@ Collection of study materials and notes organized by category.
 
 - [agent](agent/) (4 entries)
 - [ai](ai/) (11 entries)
-- [claude](claude/) (3 entries)
+- [claude](claude/) (5 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (57 entries)
+- [programming](programming/) (61 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -29,6 +29,18 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [오픈클로? 자피어? 다 필요 없는 이유(클로드 하나로 끝내는 1인 기업 자동화)](claude/오픈클로-자피어-다-필요-없는-이유클로드-하나로-끝내는-1인-기업-자동화.md)
+  - 2026-04-04
+- [클로드 만든 회사가 사용자에게 직접 물었다 — 가장 많이 나온 대답](claude/클로드-만든-회사가-사용자에게-직접-물었다--가장-많이-나온-대답.md)
+  - 2026-04-04
+- [클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다](programming/클로드-코드에서-새로-나온-btw로-토큰-비용-50-줄였습니다.md)
+  - 2026-04-04
+- [deskrpg](programming/deskrpg.md)
+  - 2026-04-04
+- [90%가 오픈클로의 엄청난 이 기능을 모르고 있습니다(크롤링, 하네스)](programming/90가-오픈클로의-엄청난-이-기능을-모르고-있습니다크롤링-하네스.md)
+  - 2026-04-04
+- [내 컴퓨터로 돌리는 보이스클로닝! 단 5초면 목소리 복제 완료! Qwen3-TTS Pro 로컬 스튜디오 설치 가이드](programming/내-컴퓨터로-돌리는-보이스클로닝-단-5초면-목소리-복제-완료-qwen3-tts-pro-.md)
+  - 2026-04-04
 - [페르소나 추출 방법](general/페르소나-추출-방법.md)
   - 2026-04-03
 - [Mofit iOS App](programming/mofit-ios-app.md)
@@ -37,15 +49,3 @@ Collection of study materials and notes organized by category.
   - 2026-04-03
 - [k-skill](programming/k-skill.md)
   - 2026-04-03
-- ["딱 3년만 미친듯이 해보세요" 2조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법)](programming/딱-3년만-미친듯이-해보세요-2조-기업-회장이-말하는-ai-시대의-진짜-생존-공식-f.md)
-  - 2026-04-02
-- [Harness-100 실전 순례 | 100개 하네스 중 내게 맞는 걸 찾는 법](programming/harness-100-실전-순례--100개-하네스-중-내게-맞는-걸-찾는-법.md)
-  - 2026-04-02
-- [바이브코딩 설계부터 완성까지, Superpowers 하나면 끝!](programming/바이브코딩-설계부터-완성까지-superpowers-하나면-끝.md)
-  - 2026-04-02
-- [AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기](programming/ai-에이전트를-회사처럼-굴려봤습니다--paperclip-실전-후기.md)
-  - 2026-04-02
-- [클로드 AI, 비싼 챗봇으로만 쓰지 마세요! 숨겨진 11가지 기능으로 '자동화 공장' 만드세요](programming/클로드-ai-비싼-챗봇으로만-쓰지-마세요-숨겨진-11가지-기능으로-자동화-공장-만드.md)
-  - 2026-04-01
-- [모르면 진짜 개손해... AI로 회사 운영 해주는 Paper Clip. 심지어 무료 오픈소스](programming/모르면-진짜-개손해-ai로-회사-운영-해주는-paper-clip-심지어-무료-오픈소.md)
-  - 2026-03-31
