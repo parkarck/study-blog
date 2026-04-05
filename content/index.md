@@ -6,20 +6,20 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 95
+- Total entries: 98
 - Categories: 11
 
 ---
 
 ## Categories
 
-- [agent](agent/) (4 entries)
-- [ai](ai/) (11 entries)
+- [agent](agent/) (5 entries)
+- [ai](ai/) (12 entries)
 - [claude](claude/) (5 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (61 entries)
+- [programming](programming/) (62 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -29,6 +29,12 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session](agent/chat-agents-in-sigma-from-insight-to-action-with-.md)
+  - 2026-04-06
+- [클로드 코드가 털렸습니다. 51만줄짜리 코드 8분만에 요약해드립니다.](programming/클로드-코드가-털렸습니다-51만줄짜리-코드-8분만에-요약해드립니다.md)
+  - 2026-04-06
+- [[무료 강의] 104~113쪽, 마크다운으로 할 수 있는 작업들! 마인드맵, 순서도, 수학 수식 문서 작업](ai/무료-강의-104113쪽-마크다운으로-할-수-있는-작업들-마인드맵-순서도-수학.md)
+  - 2026-04-05
 - [오픈클로? 자피어? 다 필요 없는 이유(클로드 하나로 끝내는 1인 기업 자동화)](claude/오픈클로-자피어-다-필요-없는-이유클로드-하나로-끝내는-1인-기업-자동화.md)
   - 2026-04-04
 - [클로드 만든 회사가 사용자에게 직접 물었다 — 가장 많이 나온 대답](claude/클로드-만든-회사가-사용자에게-직접-물었다--가장-많이-나온-대답.md)
@@ -42,10 +48,4 @@ Collection of study materials and notes organized by category.
 - [내 컴퓨터로 돌리는 보이스클로닝! 단 5초면 목소리 복제 완료! Qwen3-TTS Pro 로컬 스튜디오 설치 가이드](programming/내-컴퓨터로-돌리는-보이스클로닝-단-5초면-목소리-복제-완료-qwen3-tts-pro-.md)
   - 2026-04-04
 - [페르소나 추출 방법](general/페르소나-추출-방법.md)
-  - 2026-04-03
-- [Mofit iOS App](programming/mofit-ios-app.md)
-  - 2026-04-03
-- [AI 잘쓰는 사람들이 요즘 클로드 스킬에 미쳐있는 이유 | 클로드 쓴다면 무조건 이 기능 쓰셔야합니다 (200% 활용법 전부 공개)](claude/ai-잘쓰는-사람들이-요즘-클로드-스킬에-미쳐있는-이유--클로드-쓴다면-무조건-이-기능-.md)
-  - 2026-04-03
-- [k-skill](programming/k-skill.md)
   - 2026-04-03
