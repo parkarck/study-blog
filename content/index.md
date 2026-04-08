@@ -6,7 +6,7 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 102
+- Total entries: 104
 - Categories: 12
 
 ---
@@ -16,11 +16,11 @@ Collection of study materials and notes organized by category.
 - [agent](agent/) (5 entries)
 - [ai](ai/) (13 entries)
 - [blog](blog/) (1 entries)
-- [claude](claude/) (5 entries)
+- [claude](claude/) (6 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (64 entries)
+- [programming](programming/) (65 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -30,6 +30,10 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)](programming/사용료-0원-구글-gemma-4로-나만의-ai-에이전트-육성하기-ep1-설치부터-이론.md)
+  - 2026-04-09
+- [모두의 AI #38 | 클로드 Show Me! 데이터 시각화부터 인터랙티브 대쉬보드까지 📊](claude/모두의-ai-38--클로드-show-me-데이터-시각화부터-인터랙티브-대쉬보드까지-.md)
+  - 2026-04-09
 - [블로그 포스팅 테스트](blog/블로그-포스팅-테스트.md)
   - 2026-04-08
 - [Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session](agent/chat-agents-in-sigma-from-insight-to-action-with-.md)
@@ -45,8 +49,4 @@ Collection of study materials and notes organized by category.
 - [[무료 강의] 104~113쪽, 마크다운으로 할 수 있는 작업들! 마인드맵, 순서도, 수학 수식 문서 작업](ai/무료-강의-104113쪽-마크다운으로-할-수-있는-작업들-마인드맵-순서도-수학.md)
   - 2026-04-05
 - [오픈클로? 자피어? 다 필요 없는 이유(클로드 하나로 끝내는 1인 기업 자동화)](claude/오픈클로-자피어-다-필요-없는-이유클로드-하나로-끝내는-1인-기업-자동화.md)
-  - 2026-04-04
-- [클로드 만든 회사가 사용자에게 직접 물었다 — 가장 많이 나온 대답](claude/클로드-만든-회사가-사용자에게-직접-물었다--가장-많이-나온-대답.md)
-  - 2026-04-04
-- [클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다](programming/클로드-코드에서-새로-나온-btw로-토큰-비용-50-줄였습니다.md)
   - 2026-04-04
