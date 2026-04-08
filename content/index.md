@@ -6,8 +6,8 @@ Collection of study materials and notes organized by category.
 
 ## Statistics
 
-- Total entries: 101
-- Categories: 11
+- Total entries: 102
+- Categories: 12
 
 ---
 
@@ -15,6 +15,7 @@ Collection of study materials and notes organized by category.
 
 - [agent](agent/) (5 entries)
 - [ai](ai/) (13 entries)
+- [blog](blog/) (1 entries)
 - [claude](claude/) (5 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
@@ -29,6 +30,8 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [블로그 포스팅 테스트](blog/블로그-포스팅-테스트.md)
+  - 2026-04-08
 - [Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session](agent/chat-agents-in-sigma-from-insight-to-action-with-.md)
   - 2026-04-06
 - [클로드 코드가 털렸습니다. 51만줄짜리 코드 8분만에 요약해드립니다.](programming/클로드-코드가-털렸습니다-51만줄짜리-코드-8분만에-요약해드립니다.md)
@@ -46,6 +49,4 @@ Collection of study materials and notes organized by category.
 - [클로드 만든 회사가 사용자에게 직접 물었다 — 가장 많이 나온 대답](claude/클로드-만든-회사가-사용자에게-직접-물었다--가장-많이-나온-대답.md)
   - 2026-04-04
 - [클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다](programming/클로드-코드에서-새로-나온-btw로-토큰-비용-50-줄였습니다.md)
-  - 2026-04-04
-- [deskrpg](programming/deskrpg.md)
   - 2026-04-04
