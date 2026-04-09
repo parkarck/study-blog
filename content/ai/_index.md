@@ -45,3 +45,6 @@ Category page for ai
 - [API 비용을 0으로 만들어줄 역대급 On Device AI! Gemma 4!](api-비용을-0으로-만들어줄-역대급-on-device-ai-gemma-4.md)
   - 2026-04-06
 
+- [AI가 내 모든 걸 기억한다고? 진짜로 만들 수 있습니다](ai가-내-모든-걸-기억한다고-진짜로-만들-수-있습니다.md)
+  - 2026-04-09
+
