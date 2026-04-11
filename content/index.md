@@ -7,7 +7,7 @@ Collection of study materials and notes organized by category.
 ## Statistics
 
 - Total entries: 107
-- Categories: 12
+- Categories: 11
 
 ---
 
@@ -15,12 +15,11 @@ Collection of study materials and notes organized by category.
 
 - [agent](agent/) (5 entries)
 - [ai](ai/) (14 entries)
-- [blog](blog/) (1 entries)
 - [claude](claude/) (6 entries)
 - [fde](fde/) (1 entries)
 - [general](general/) (3 entries)
 - [llm](llm/) (6 entries)
-- [programming](programming/) (67 entries)
+- [programming](programming/) (68 entries)
 - [security](security/) (1 entries)
 - [server](server/) (1 entries)
 - [주식](주식/) (1 entries)
@@ -30,6 +29,8 @@ Collection of study materials and notes organized by category.
 
 ## Recent Entries
 
+- [안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)](programming/안쓰면-손해-클로드코드가-내-노하우를-나무위키처럼-정리해줍니다-feat-안드레-카파시.md)
+  - 2026-04-11
 - [AI가 내 모든 걸 기억한다고? 진짜로 만들 수 있습니다](ai/ai가-내-모든-걸-기억한다고-진짜로-만들-수-있습니다.md)
   - 2026-04-09
 - [Claude Code 비용 80% 절감하는 settings.json 3줄과 14만명이 쓰는 everything-claude-code 설정법](programming/claude-code-비용-80-절감하는-settingsjson-3줄과-14만명이-쓰는.md)
@@ -40,8 +41,6 @@ Collection of study materials and notes organized by category.
   - 2026-04-09
 - [사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)](programming/사용료-0원-구글-gemma-4로-나만의-ai-에이전트-육성하기-ep1-설치부터-이론.md)
   - 2026-04-09
-- [블로그 포스팅 테스트](blog/블로그-포스팅-테스트.md)
-  - 2026-04-08
 - [API 비용을 0으로 만들어줄 역대급 On Device AI! Gemma 4!](ai/api-비용을-0으로-만들어줄-역대급-on-device-ai-gemma-4.md)
   - 2026-04-06
 - [1년간 현장에서 겪어본 ‘토큰 이코노미’의 현실 (30년 개발자 박종천)](programming/1년간-현장에서-겪어본-토큰-이코노미의-현실-30년-개발자-박종천.md)

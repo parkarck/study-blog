@@ -6,6 +6,9 @@ Category page for programming
 
 ## Entries
 
+- [안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)](안쓰면-손해-클로드코드가-내-노하우를-나무위키처럼-정리해줍니다-feat-안드레-카파시.md)
+  - 2026-04-11
+
 - [Claude Code 비용 80% 절감하는 settings.json 3줄과 14만명이 쓰는 everything-claude-code 설정법](claude-code-비용-80-절감하는-settingsjson-3줄과-14만명이-쓰는.md)
   - 2026-04-09
 
