@@ -1,9 +1,5 @@
----
-title: "Cursor 자동 클린 기능 업데이트"
-category: "ai"
-date: "2026-02-25"
-source_url: "https://youtu.be/ty031hFXsmQ"
-status: "완료"
+---json
+{"title": "Cursor 자동 클린 기능 업데이트", "category": "ai", "date": "2026-02-25", "source_url": "https://youtu.be/ty031hFXsmQ", "status": "완료"}
 ---
 
 # Cursor 자동 클린 기능 업데이트

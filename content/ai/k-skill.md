@@ -1,9 +1,5 @@
----
-title: "k-skill"
-category: "ai"
-date: "2026-04-03"
-source_url: "https://github.com/NomaDamas/k-skill"
-status: "완료"
+---json
+{"title": "k-skill", "category": "ai", "date": "2026-04-03", "source_url": "https://github.com/NomaDamas/k-skill", "status": "완료"}
 ---
 
 # k-skill

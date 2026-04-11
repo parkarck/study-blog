@@ -1,9 +1,5 @@
----
-title: "Claude-Mem - Persistent Memory Compression System"
-category: "ai"
-date: "2026-03-19"
-source_url: "https://docs.claude-mem.ai/introduction"
-status: "완료"
+---json
+{"title": "Claude-Mem - Persistent Memory Compression System", "category": "ai", "date": "2026-03-19", "source_url": "https://docs.claude-mem.ai/introduction", "status": "완료"}
 ---
 
 # Claude-Mem - Persistent Memory Compression System

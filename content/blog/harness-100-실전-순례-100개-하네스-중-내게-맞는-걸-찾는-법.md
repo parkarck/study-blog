@@ -1,14 +1,10 @@
----
-title: "Harness-100 실전 순례 | 100개 하네스 중 내게 맞는 걸 찾는 법"
-category: "ai"
-date: "2026-04-02"
-source_url: "https://youtu.be/9Er5uRwPxxc?si=drsd77RkfiunhJH7"
-status: "처음 학습"
+---json
+{"title": "Harness-100 실전 순례 | 100개 하네스 중 내게 맞는 걸 찾는 법", "category": "blog", "date": "2026-04-02", "source_url": "https://youtu.be/9Er5uRwPxxc?si=drsd77RkfiunhJH7", "status": "처음 학습"}
 ---
 
 # Harness-100 실전 순례 | 100개 하네스 중 내게 맞는 걸 찾는 법
 
-**Category:** ai
+**Category:** blog
 
 **Source:** [https://youtu.be/9Er5uRwPxxc?si=drsd77RkfiunhJH7](https://youtu.be/9Er5uRwPxxc?si=drsd77RkfiunhJH7)
 

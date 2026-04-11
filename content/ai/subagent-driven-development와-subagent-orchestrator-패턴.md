@@ -1,14 +1,10 @@
----
-title: "Subagent-Driven Development와 Subagent-Orchestrator 패턴"
-category: "agent"
-date: "2026-03-30"
-source_url: ""
-status: "처음 학습"
+---json
+{"title": "Subagent-Driven Development와 Subagent-Orchestrator 패턴", "category": "ai", "date": "2026-03-30", "source_url": "", "status": "처음 학습"}
 ---
 
 # Subagent-Driven Development와 Subagent-Orchestrator 패턴
 
-**Category:** agent
+**Category:** ai
 
 **Source:** []()
 

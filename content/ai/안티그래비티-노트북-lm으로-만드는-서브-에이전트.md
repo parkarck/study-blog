@@ -1,9 +1,5 @@
----
-title: "안티그래비티 + 노트북 LM으로 만드는 서브 에이전트"
-category: "ai"
-date: "2026-03-29"
-source_url: "https://youtu.be/IMFiasVnc0o?si=WUghFMxGZuOUFms9"
-status: "완료"
+---json
+{"title": "안티그래비티 + 노트북 LM으로 만드는 서브 에이전트", "category": "ai", "date": "2026-03-29", "source_url": "https://youtu.be/IMFiasVnc0o?si=WUghFMxGZuOUFms9", "status": "완료"}
 ---
 
 # 안티그래비티 + 노트북 LM으로 만드는 서브 에이전트

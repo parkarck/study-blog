@@ -1,9 +1,5 @@
----
-title: "Claude Code 비용 80% 절감하는 settings.json 3줄과 14만명이 쓰는 everything-claude-code 설정법"
-category: "ai"
-date: "2026-04-09"
-source_url: "https://youtu.be/4rN-UWKSmp0?si=DmDYUqxEf8hQelT1"
-status: "시작 전"
+---json
+{"title": "Claude Code 비용 80% 절감하는 settings.json 3줄과 14만명이 쓰는 everything-claude-code 설정법", "category": "ai", "date": "2026-04-09", "source_url": "https://youtu.be/4rN-UWKSmp0?si=DmDYUqxEf8hQelT1", "status": "시작 전"}
 ---
 
 # Claude Code 비용 80% 절감하는 settings.json 3줄과 14만명이 쓰는 everything-claude-code 설정법

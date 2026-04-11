@@ -1,9 +1,5 @@
----
-title: "The 2028 Global Intelligence Crisis"
-category: "ai"
-date: "2026-02-24"
-source_url: "https://www.citriniresearch.com/p/2028gic"
-status: "완료"
+---json
+{"title": "The 2028 Global Intelligence Crisis", "category": "ai", "date": "2026-02-24", "source_url": "https://www.citriniresearch.com/p/2028gic", "status": "완료"}
 ---
 
 # The 2028 Global Intelligence Crisis

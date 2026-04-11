@@ -1,9 +1,5 @@
----
-title: "Deep Agent Builder - 자연어로 에이전트 생성"
-category: "ai"
-date: "2026-03-08"
-source_url: "https://youtu.be/QI2KVJ2ciiY?si=6XcxsDu66ySGFdSj"
-status: "1차 복습"
+---json
+{"title": "Deep Agent Builder - 자연어로 에이전트 생성", "category": "ai", "date": "2026-03-08", "source_url": "https://youtu.be/QI2KVJ2ciiY?si=6XcxsDu66ySGFdSj", "status": "1차 복습"}
 ---
 
 # Deep Agent Builder - 자연어로 에이전트 생성

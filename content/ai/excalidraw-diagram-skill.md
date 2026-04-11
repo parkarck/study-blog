@@ -1,9 +1,5 @@
----
-title: "Excalidraw Diagram Skill"
-category: "ai"
-date: "2026-03-29"
-source_url: "https://github.com/coleam00/excalidraw-diagram-skill"
-status: "완료"
+---json
+{"title": "Excalidraw Diagram Skill", "category": "ai", "date": "2026-03-29", "source_url": "https://github.com/coleam00/excalidraw-diagram-skill", "status": "완료"}
 ---
 
 # Excalidraw Diagram Skill

@@ -1,9 +1,5 @@
----
-title: "API 비용을 0으로 만들어줄 역대급 On Device AI! Gemma 4!"
-category: "ai"
-date: "2026-04-06"
-source_url: "https://youtu.be/rEamRUk7-pg?si=lNBoYm43HyZRKjEo"
-status: "시작 전"
+---json
+{"title": "API 비용을 0으로 만들어줄 역대급 On Device AI! Gemma 4!", "category": "ai", "date": "2026-04-06", "source_url": "https://youtu.be/rEamRUk7-pg?si=lNBoYm43HyZRKjEo", "status": "시작 전"}
 ---
 
 # API 비용을 0으로 만들어줄 역대급 On Device AI! Gemma 4!

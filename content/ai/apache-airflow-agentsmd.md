@@ -1,14 +1,10 @@
----
-title: "Apache Airflow AGENTS.md"
-category: "programming"
-date: "2026-03-30"
-source_url: "https://github.com/apache/airflow/blob/main/AGENTS.md"
-status: "완료"
+---json
+{"title": "Apache Airflow AGENTS.md", "category": "ai", "date": "2026-03-30", "source_url": "https://github.com/apache/airflow/blob/main/AGENTS.md", "status": "완료"}
 ---
 
 # Apache Airflow AGENTS.md
 
-**Category:** programming
+**Category:** ai
 
 **Source:** [https://github.com/apache/airflow/blob/main/AGENTS.md](https://github.com/apache/airflow/blob/main/AGENTS.md)
 

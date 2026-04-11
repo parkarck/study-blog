@@ -1,14 +1,10 @@
----
-title: "Entire.io - 랜딩 페이지"
-category: "programming"
-date: "2026-02-19"
-source_url: "https://entire.io/"
-status: "완료"
+---json
+{"title": "Entire.io - 랜딩 페이지", "category": "blog", "date": "2026-02-19", "source_url": "https://entire.io/", "status": "완료"}
 ---
 
 # Entire.io - 랜딩 페이지
 
-**Category:** programming
+**Category:** blog
 
 **Source:** [https://entire.io/](https://entire.io/)
 

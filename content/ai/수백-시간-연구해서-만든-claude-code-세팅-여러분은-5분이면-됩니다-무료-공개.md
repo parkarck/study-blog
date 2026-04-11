@@ -1,9 +1,5 @@
----
-title: "수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)"
-category: "ai"
-date: "2026-03-09"
-source_url: "https://youtu.be/3lMjX5Gq1zE?si=A6tQo-g9BwfNE6xc"
-status: "완료"
+---json
+{"title": "수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)", "category": "ai", "date": "2026-03-09", "source_url": "https://youtu.be/3lMjX5Gq1zE?si=A6tQo-g9BwfNE6xc", "status": "완료"}
 ---
 
 # 수백 시간 연구해서 만든 Claude Code 세팅, 여러분은 5분이면 됩니다 (무료 공개)

@@ -1,9 +1,5 @@
----
-title: "AI 코딩 및 DDD 도메인 학습 노트"
-category: "ai"
-date: "2026-02-22"
-source_url: ""
-status: "완료"
+---json
+{"title": "AI 코딩 및 DDD 도메인 학습 노트", "category": "ai", "date": "2026-02-22", "source_url": "", "status": "완료"}
 ---
 
 # AI 코딩 및 DDD 도메인 학습 노트

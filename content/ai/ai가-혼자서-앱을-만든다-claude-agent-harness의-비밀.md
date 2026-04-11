@@ -1,9 +1,5 @@
----
-title: "AI가 혼자서 앱을 만든다? Claude Agent Harness의 비밀"
-category: "ai"
-date: "2026-02-26"
-source_url: "https://youtu.be/FKBNZ4OJxlc"
-status: "완료"
+---json
+{"title": "AI가 혼자서 앱을 만든다? Claude Agent Harness의 비밀", "category": "ai", "date": "2026-02-26", "source_url": "https://youtu.be/FKBNZ4OJxlc", "status": "완료"}
 ---
 
 # AI가 혼자서 앱을 만든다? Claude Agent Harness의 비밀

@@ -1,9 +1,5 @@
----
-title: "AI 활용 시스템 개발 및 개선 경험"
-category: "ai"
-date: "2026-02-22"
-source_url: "https://youtu.be/tcDoacn64Lo?si=x7m2NIB-VaEMovj6"
-status: "완료"
+---json
+{"title": "AI 활용 시스템 개발 및 개선 경험", "category": "ai", "date": "2026-02-22", "source_url": "https://youtu.be/tcDoacn64Lo?si=x7m2NIB-VaEMovj6", "status": "완료"}
 ---
 
 # AI 활용 시스템 개발 및 개선 경험

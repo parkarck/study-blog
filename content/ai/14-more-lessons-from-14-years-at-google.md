@@ -1,14 +1,10 @@
----
-title: "14 More Lessons from 14 Years at Google"
-category: "agent"
-date: "2026-02-18"
-source_url: "https://addyo.substack.com/p/14-more-lessons-from-14-years-at"
-status: "4차 복습"
+---json
+{"title": "14 More Lessons from 14 Years at Google", "category": "ai", "date": "2026-02-18", "source_url": "https://addyo.substack.com/p/14-more-lessons-from-14-years-at", "status": "4차 복습"}
 ---
 
 # 14 More Lessons from 14 Years at Google
 
-**Category:** agent
+**Category:** ai
 
 **Source:** [https://addyo.substack.com/p/14-more-lessons-from-14-years-at](https://addyo.substack.com/p/14-more-lessons-from-14-years-at)
 

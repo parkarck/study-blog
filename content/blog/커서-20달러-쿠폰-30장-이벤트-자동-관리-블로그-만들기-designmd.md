@@ -1,14 +1,10 @@
----
-title: "커서 20달러 쿠폰 30장 이벤트 + 자동 관리 블로그 만들기 + DESIGN.md"
-category: "ai"
-date: "2026-04-11"
-source_url: "https://youtu.be/EGhrXHUNusg?si=TlCGxyvvwHcrBR6S"
-status: "시작 전"
+---json
+{"title": "커서 20달러 쿠폰 30장 이벤트 + 자동 관리 블로그 만들기 + DESIGN.md", "category": "blog", "date": "2026-04-11", "source_url": "https://youtu.be/EGhrXHUNusg?si=TlCGxyvvwHcrBR6S", "status": "시작 전"}
 ---
 
 # 커서 20달러 쿠폰 30장 이벤트 + 자동 관리 블로그 만들기 + DESIGN.md
 
-**Category:** ai
+**Category:** blog
 
 **Source:** [https://youtu.be/EGhrXHUNusg?si=TlCGxyvvwHcrBR6S](https://youtu.be/EGhrXHUNusg?si=TlCGxyvvwHcrBR6S)
 

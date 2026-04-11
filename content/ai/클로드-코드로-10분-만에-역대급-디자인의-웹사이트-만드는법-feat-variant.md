@@ -1,9 +1,5 @@
----
-title: "클로드 코드로 10분 만에 역대급 디자인의 웹사이트 만드는법 (feat. Variant)"
-category: "ai"
-date: "2026-03-29"
-source_url: "https://youtu.be/6iq6CjUJvxc?si=psHFW0niAkGNrOk-"
-status: "완료"
+---json
+{"title": "클로드 코드로 10분 만에 역대급 디자인의 웹사이트 만드는법 (feat. Variant)", "category": "ai", "date": "2026-03-29", "source_url": "https://youtu.be/6iq6CjUJvxc?si=psHFW0niAkGNrOk-", "status": "완료"}
 ---
 
 # 클로드 코드로 10분 만에 역대급 디자인의 웹사이트 만드는법 (feat. Variant)

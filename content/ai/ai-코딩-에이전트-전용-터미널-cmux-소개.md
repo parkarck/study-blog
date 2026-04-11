@@ -1,9 +1,5 @@
----
-title: "AI 코딩 에이전트 전용 터미널 cmux 소개"
-category: "ai"
-date: "2026-03-18"
-source_url: "https://youtu.be/jGj9yCqN08s"
-status: "완료"
+---json
+{"title": "AI 코딩 에이전트 전용 터미널 cmux 소개", "category": "ai", "date": "2026-03-18", "source_url": "https://youtu.be/jGj9yCqN08s", "status": "완료"}
 ---
 
 # AI 코딩 에이전트 전용 터미널 cmux 소개

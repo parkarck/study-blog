@@ -1,9 +1,5 @@
----
-title: "에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)"
-category: "ai"
-date: "2026-04-11"
-source_url: "https://youtu.be/gvCmeuWPVkc?si=Fo790uXNjqKFVUDu"
-status: "시작 전"
+---json
+{"title": "에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)", "category": "ai", "date": "2026-04-11", "source_url": "https://youtu.be/gvCmeuWPVkc?si=Fo790uXNjqKFVUDu", "status": "시작 전"}
 ---
 
 # 에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)

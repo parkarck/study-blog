@@ -1,14 +1,10 @@
----
-title: "테스트 - Study Clipper 설정 완료"
-category: "programming"
-date: "2026-02-18"
-source_url: "https://test.local"
-status: "완료"
+---json
+{"title": "테스트 - Study Clipper 설정 완료", "category": "general", "date": "2026-02-18", "source_url": "https://test.local", "status": "완료"}
 ---
 
 # 테스트 - Study Clipper 설정 완료
 
-**Category:** programming
+**Category:** general
 
 **Source:** [https://test.local](https://test.local)
 

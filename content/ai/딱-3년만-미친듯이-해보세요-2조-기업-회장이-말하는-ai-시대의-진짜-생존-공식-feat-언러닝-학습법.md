@@ -1,9 +1,5 @@
----
-title: ""딱 3년만 미친듯이 해보세요" 2조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법)"
-category: "ai"
-date: "2026-04-02"
-source_url: "https://youtu.be/_cEW8g9I4ak?si=TNvKJVhzbi5RAkgC"
-status: "처음 학습"
+---json
+{"title": "\"딱 3년만 미친듯이 해보세요\" 2조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법)", "category": "ai", "date": "2026-04-02", "source_url": "https://youtu.be/_cEW8g9I4ak?si=TNvKJVhzbi5RAkgC", "status": "처음 학습"}
 ---
 
 # "딱 3년만 미친듯이 해보세요" 2조 기업 회장이 말하는 AI 시대의 진짜 생존 공식 (feat. 언러닝 학습법)

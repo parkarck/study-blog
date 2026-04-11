@@ -1,9 +1,5 @@
----
-title: "VoltAgent/awesome-design-md - DESIGN.md Collection"
-category: "ai"
-date: "2026-04-11"
-source_url: "https://github.com/VoltAgent/awesome-design-md/tree/main"
-status: "시작 전"
+---json
+{"title": "VoltAgent/awesome-design-md - DESIGN.md Collection", "category": "ai", "date": "2026-04-11", "source_url": "https://github.com/VoltAgent/awesome-design-md/tree/main", "status": "시작 전"}
 ---
 
 # VoltAgent/awesome-design-md - DESIGN.md Collection

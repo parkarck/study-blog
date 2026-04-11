@@ -1,9 +1,5 @@
----
-title: "Claudini: New LLM Attacks via Autoresearch"
-category: "ai"
-date: "2026-03-29"
-source_url: "https://youtu.be/zmfkWTrJXQQ?si=M9jElCIahVNQjIEm"
-status: "완료"
+---json
+{"title": "Claudini: New LLM Attacks via Autoresearch", "category": "ai", "date": "2026-03-29", "source_url": "https://youtu.be/zmfkWTrJXQQ?si=M9jElCIahVNQjIEm", "status": "완료"}
 ---
 
 # Claudini: New LLM Attacks via Autoresearch

@@ -1,9 +1,5 @@
----
-title: "notebooklm-py - NotebookLM Python API"
-category: "ai"
-date: "2026-03-24"
-source_url: "https://github.com/teng-lin/notebooklm-py"
-status: "완료"
+---json
+{"title": "notebooklm-py - NotebookLM Python API", "category": "ai", "date": "2026-03-24", "source_url": "https://github.com/teng-lin/notebooklm-py", "status": "완료"}
 ---
 
 # notebooklm-py - NotebookLM Python API

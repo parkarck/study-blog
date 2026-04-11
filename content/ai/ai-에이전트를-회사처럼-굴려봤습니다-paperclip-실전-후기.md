@@ -1,9 +1,5 @@
----
-title: "AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기"
-category: "ai"
-date: "2026-04-02"
-source_url: "https://youtu.be/Jr7IcBa0Ik8?si=4hlZd1tShik5-Nx2"
-status: "처음 학습"
+---json
+{"title": "AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기", "category": "ai", "date": "2026-04-02", "source_url": "https://youtu.be/Jr7IcBa0Ik8?si=4hlZd1tShik5-Nx2", "status": "처음 학습"}
 ---
 
 # AI 에이전트를 회사처럼 굴려봤습니다 | Paperclip 실전 후기

@@ -1,9 +1,5 @@
----
-title: "클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다"
-category: "ai"
-date: "2026-04-04"
-source_url: "https://youtu.be/TCJJJDw3-vk?si=9h_g2V-AD2-GhBhF"
-status: "완료"
+---json
+{"title": "클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다", "category": "ai", "date": "2026-04-04", "source_url": "https://youtu.be/TCJJJDw3-vk?si=9h_g2V-AD2-GhBhF", "status": "완료"}
 ---
 
 # 클로드 코드에서 새로 나온 btw로 토큰 비용 50% 줄였습니다

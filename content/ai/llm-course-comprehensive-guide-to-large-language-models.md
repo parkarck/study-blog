@@ -1,9 +1,5 @@
----
-title: "LLM Course: Comprehensive Guide to Large Language Models"
-category: "ai"
-date: "2026-02-18"
-source_url: "https://github.com/mlabonne/llm-course"
-status: "완료"
+---json
+{"title": "LLM Course: Comprehensive Guide to Large Language Models", "category": "ai", "date": "2026-02-18", "source_url": "https://github.com/mlabonne/llm-course", "status": "완료"}
 ---
 
 # LLM Course: Comprehensive Guide to Large Language Models

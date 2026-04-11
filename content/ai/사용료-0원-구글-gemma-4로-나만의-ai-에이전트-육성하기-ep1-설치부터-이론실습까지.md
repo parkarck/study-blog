@@ -1,9 +1,5 @@
----
-title: "사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)"
-category: "ai"
-date: "2026-04-09"
-source_url: "https://youtu.be/eyFk27mwFJo?si=3Nwzf18atfH-2Kjg"
-status: "시작 전"
+---json
+{"title": "사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)", "category": "ai", "date": "2026-04-09", "source_url": "https://youtu.be/eyFk27mwFJo?si=3Nwzf18atfH-2Kjg", "status": "시작 전"}
 ---
 
 # 사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)

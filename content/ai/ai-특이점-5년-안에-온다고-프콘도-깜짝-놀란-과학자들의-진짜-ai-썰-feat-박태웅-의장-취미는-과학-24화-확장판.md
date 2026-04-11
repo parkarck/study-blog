@@ -1,9 +1,5 @@
----
-title: "AI 특이점, 5년 안에 온다고? 프콘도 깜짝 놀란 과학자들의 진짜 AI 썰 (feat. 박태웅 의장) [취미는 과학/ 24화 확장판]"
-category: "ai"
-date: "2026-02-22"
-source_url: "https://youtu.be/0KDosjF0iYM?si=k-98g09yij8fewo7"
-status: "완료"
+---json
+{"title": "AI 특이점, 5년 안에 온다고? 프콘도 깜짝 놀란 과학자들의 진짜 AI 썰 (feat. 박태웅 의장) [취미는 과학/ 24화 확장판]", "category": "ai", "date": "2026-02-22", "source_url": "https://youtu.be/0KDosjF0iYM?si=k-98g09yij8fewo7", "status": "완료"}
 ---
 
 # AI 특이점, 5년 안에 온다고? 프콘도 깜짝 놀란 과학자들의 진짜 AI 썰 (feat. 박태웅 의장) [취미는 과학/ 24화 확장판]

@@ -1,9 +1,5 @@
----
-title: "자는 동안 AI가 혼자 일함"
-category: "ai"
-date: "2026-02-24"
-source_url: "https://youtu.be/p7Tjk3amiKs"
-status: "완료"
+---json
+{"title": "자는 동안 AI가 혼자 일함", "category": "ai", "date": "2026-02-24", "source_url": "https://youtu.be/p7Tjk3amiKs", "status": "완료"}
 ---
 
 # 자는 동안 AI가 혼자 일함

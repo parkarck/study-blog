@@ -1,14 +1,10 @@
----
-title: "Mofit iOS App"
-category: "programming"
-date: "2026-04-03"
-source_url: "https://github.com/vibemafiaclub/mofit-ios"
-status: "완료"
+---json
+{"title": "Mofit iOS App", "category": "ai", "date": "2026-04-03", "source_url": "https://github.com/vibemafiaclub/mofit-ios", "status": "완료"}
 ---
 
 # Mofit iOS App
 
-**Category:** programming
+**Category:** ai
 
 **Source:** [https://github.com/vibemafiaclub/mofit-ios](https://github.com/vibemafiaclub/mofit-ios)
 

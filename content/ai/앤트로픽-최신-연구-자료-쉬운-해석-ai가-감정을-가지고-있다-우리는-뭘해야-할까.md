@@ -1,9 +1,5 @@
----
-title: "앤트로픽 최신 연구 자료 쉬운 해석  - AI가 감정을 가지고 있다 우리는 뭘해야 할까?"
-category: "ai"
-date: "2026-04-06"
-source_url: "https://youtu.be/6n1r_46KzDE?si=0oU-f6lrwC-w6IGN"
-status: "완료"
+---json
+{"title": "앤트로픽 최신 연구 자료 쉬운 해석  - AI가 감정을 가지고 있다 우리는 뭘해야 할까?", "category": "ai", "date": "2026-04-06", "source_url": "https://youtu.be/6n1r_46KzDE?si=0oU-f6lrwC-w6IGN", "status": "완료"}
 ---
 
 # 앤트로픽 최신 연구 자료 쉬운 해석  - AI가 감정을 가지고 있다 우리는 뭘해야 할까?

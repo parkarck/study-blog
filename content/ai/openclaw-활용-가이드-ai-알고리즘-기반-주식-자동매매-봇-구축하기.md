@@ -1,9 +1,5 @@
----
-title: "[OpenClaw 활용 가이드] AI 알고리즘 기반 주식 자동매매 봇 구축하기"
-category: "ai"
-date: "2026-02-18"
-source_url: "https://www.youtube.com/watch?v=CgniMVyJtmg"
-status: "완료"
+---json
+{"title": "[OpenClaw 활용 가이드] AI 알고리즘 기반 주식 자동매매 봇 구축하기", "category": "ai", "date": "2026-02-18", "source_url": "https://www.youtube.com/watch?v=CgniMVyJtmg", "status": "완료"}
 ---
 
 # [OpenClaw 활용 가이드] AI 알고리즘 기반 주식 자동매매 봇 구축하기

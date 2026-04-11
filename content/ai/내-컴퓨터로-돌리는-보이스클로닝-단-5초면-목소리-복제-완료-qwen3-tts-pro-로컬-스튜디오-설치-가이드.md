@@ -1,9 +1,5 @@
----
-title: "내 컴퓨터로 돌리는 보이스클로닝! 단 5초면 목소리 복제 완료! Qwen3-TTS Pro 로컬 스튜디오 설치 가이드"
-category: "ai"
-date: "2026-04-04"
-source_url: "https://youtu.be/Pqnftx0TPKI?si=Z3Y3XvQfYjoGZOmB"
-status: "완료"
+---json
+{"title": "내 컴퓨터로 돌리는 보이스클로닝! 단 5초면 목소리 복제 완료! Qwen3-TTS Pro 로컬 스튜디오 설치 가이드", "category": "ai", "date": "2026-04-04", "source_url": "https://youtu.be/Pqnftx0TPKI?si=Z3Y3XvQfYjoGZOmB", "status": "완료"}
 ---
 
 # 내 컴퓨터로 돌리는 보이스클로닝! 단 5초면 목소리 복제 완료! Qwen3-TTS Pro 로컬 스튜디오 설치 가이드

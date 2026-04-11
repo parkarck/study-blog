@@ -1,9 +1,5 @@
----
-title: "아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다"
-category: "ai"
-date: "2026-02-20"
-source_url: "https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u"
-status: "처음 학습"
+---json
+{"title": "아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다", "category": "ai", "date": "2026-02-20", "source_url": "https://youtu.be/2jcOpJnHKBw?si=JkRflLxtkZKRc71u", "status": "처음 학습"}
 ---
 
 # 아직도 RAG 쓰세요? 이거 보고 나면 멈춥니다

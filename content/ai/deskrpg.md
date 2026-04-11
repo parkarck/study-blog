@@ -1,14 +1,10 @@
----
-title: "deskrpg"
-category: "programming"
-date: "2026-04-04"
-source_url: "https://github.com/dandacompany/deskrpg"
-status: "완료"
+---json
+{"title": "deskrpg", "category": "ai", "date": "2026-04-04", "source_url": "https://github.com/dandacompany/deskrpg", "status": "완료"}
 ---
 
 # deskrpg
 
-**Category:** programming
+**Category:** ai
 
 **Source:** [https://github.com/dandacompany/deskrpg](https://github.com/dandacompany/deskrpg)
 

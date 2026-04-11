@@ -1,9 +1,5 @@
----
-title: "Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session"
-category: "ai"
-date: "2026-04-06"
-source_url: "https://youtu.be/le8y-u4-K7A?si=sDLFu9w0ORiiDbyI"
-status: "1차 복습"
+---json
+{"title": "Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session", "category": "ai", "date": "2026-04-06", "source_url": "https://youtu.be/le8y-u4-K7A?si=sDLFu9w0ORiiDbyI", "status": "1차 복습"}
 ---
 
 # Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session

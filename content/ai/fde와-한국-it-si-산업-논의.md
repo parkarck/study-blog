@@ -1,9 +1,5 @@
----
-title: "FDE와 한국 IT SI 산업 논의"
-category: "ai"
-date: "2026-02-18"
-source_url: ""
-status: "완료"
+---json
+{"title": "FDE와 한국 IT SI 산업 논의", "category": "ai", "date": "2026-02-18", "source_url": "", "status": "완료"}
 ---
 
 # FDE와 한국 IT SI 산업 논의

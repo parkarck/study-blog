@@ -1,9 +1,5 @@
----
-title: "안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)"
-category: "ai"
-date: "2026-04-11"
-source_url: "https://youtu.be/wXc7-vFSd5U?si=-33bKXgkfF3IU4Vp"
-status: "시작 전"
+---json
+{"title": "안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)", "category": "ai", "date": "2026-04-11", "source_url": "https://youtu.be/wXc7-vFSd5U?si=-33bKXgkfF3IU4Vp", "status": "시작 전"}
 ---
 
 # 안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)

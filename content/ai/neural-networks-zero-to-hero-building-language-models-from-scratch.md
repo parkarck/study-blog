@@ -1,9 +1,5 @@
----
-title: "Neural Networks: Zero to Hero (Building Language Models from Scratch)"
-category: "ai"
-date: "2026-02-18"
-source_url: "https://github.com/rasbt/LLMs-from-scratch"
-status: "완료"
+---json
+{"title": "Neural Networks: Zero to Hero (Building Language Models from Scratch)", "category": "ai", "date": "2026-02-18", "source_url": "https://github.com/rasbt/LLMs-from-scratch", "status": "완료"}
 ---
 
 # Neural Networks: Zero to Hero (Building Language Models from Scratch)

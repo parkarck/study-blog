@@ -1,9 +1,5 @@
----
-title: "클로드 코드 3일간 소스코드 뜯어본 개발자가 찾은 토큰 틀어막기 TOP 7"
-category: "ai"
-date: "2026-04-09"
-source_url: "https://youtu.be/ZRyVSrFqvzI?si=Urn2dP9GCQFJR0ZB"
-status: "시작 전"
+---json
+{"title": "클로드 코드 3일간 소스코드 뜯어본 개발자가 찾은 토큰 틀어막기 TOP 7", "category": "ai", "date": "2026-04-09", "source_url": "https://youtu.be/ZRyVSrFqvzI?si=Urn2dP9GCQFJR0ZB", "status": "시작 전"}
 ---
 
 # 클로드 코드 3일간 소스코드 뜯어본 개발자가 찾은 토큰 틀어막기 TOP 7

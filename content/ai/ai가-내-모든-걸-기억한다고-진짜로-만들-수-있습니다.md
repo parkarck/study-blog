@@ -1,9 +1,5 @@
----
-title: "AI가 내 모든 걸 기억한다고? 진짜로 만들 수 있습니다"
-category: "ai"
-date: "2026-04-09"
-source_url: "https://youtu.be/YxraHvGzWTs?si=PK1keuBiAfTvhsBo"
-status: "시작 전"
+---json
+{"title": "AI가 내 모든 걸 기억한다고? 진짜로 만들 수 있습니다", "category": "ai", "date": "2026-04-09", "source_url": "https://youtu.be/YxraHvGzWTs?si=PK1keuBiAfTvhsBo", "status": "시작 전"}
 ---
 
 # AI가 내 모든 걸 기억한다고? 진짜로 만들 수 있습니다

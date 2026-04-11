@@ -1,9 +1,5 @@
----
-title: "AgentIR: Reasoning-Aware Retrieval for Deep Research Agents"
-category: "ai"
-date: "2026-03-16"
-source_url: "https://texttron.github.io/AgentIR/"
-status: "완료"
+---json
+{"title": "AgentIR: Reasoning-Aware Retrieval for Deep Research Agents", "category": "ai", "date": "2026-03-16", "source_url": "https://texttron.github.io/AgentIR/", "status": "완료"}
 ---
 
 # AgentIR: Reasoning-Aware Retrieval for Deep Research Agents

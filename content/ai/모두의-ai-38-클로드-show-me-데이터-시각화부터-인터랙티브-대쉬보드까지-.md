@@ -1,9 +1,5 @@
----
-title: "모두의 AI #38 | 클로드 Show Me! 데이터 시각화부터 인터랙티브 대쉬보드까지 📊"
-category: "ai"
-date: "2026-04-09"
-source_url: "https://youtu.be/6YZqfUYAPQY?si=AvpOlLVANalqvJND"
-status: "시작 전"
+---json
+{"title": "모두의 AI #38 | 클로드 Show Me! 데이터 시각화부터 인터랙티브 대쉬보드까지 📊", "category": "ai", "date": "2026-04-09", "source_url": "https://youtu.be/6YZqfUYAPQY?si=AvpOlLVANalqvJND", "status": "시작 전"}
 ---
 
 # 모두의 AI #38 | 클로드 Show Me! 데이터 시각화부터 인터랙티브 대쉬보드까지 📊

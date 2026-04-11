@@ -1,9 +1,5 @@
----
-title: "LowEndBox - 저가 VPS 및 전용 서버 오퍼 비교"
-category: "ai"
-date: "2026-02-19"
-source_url: "https://lowendbox.com/"
-status: "완료"
+---json
+{"title": "LowEndBox - 저가 VPS 및 전용 서버 오퍼 비교", "category": "ai", "date": "2026-02-19", "source_url": "https://lowendbox.com/", "status": "완료"}
 ---
 
 # LowEndBox - 저가 VPS 및 전용 서버 오퍼 비교

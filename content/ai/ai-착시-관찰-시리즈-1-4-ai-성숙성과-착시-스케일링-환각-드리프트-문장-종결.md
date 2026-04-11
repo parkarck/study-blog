@@ -1,9 +1,5 @@
----
-title: "AI 착시 관찰 시리즈 1-4: AI 성숙성과 착시, 스케일링, 환각, 드리프트, 문장 종결"
-category: "ai"
-date: "2026-02-22"
-source_url: "https://cafe.naver.com/aidev/1392"
-status: "완료"
+---json
+{"title": "AI 착시 관찰 시리즈 1-4: AI 성숙성과 착시, 스케일링, 환각, 드리프트, 문장 종결", "category": "ai", "date": "2026-02-22", "source_url": "https://cafe.naver.com/aidev/1392", "status": "완료"}
 ---
 
 # AI 착시 관찰 시리즈 1-4: AI 성숙성과 착시, 스케일링, 환각, 드리프트, 문장 종결
