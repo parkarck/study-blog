@@ -5,6 +5,10 @@ import matter from 'gray-matter';
 
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 
+// Minimum content length (in characters) to include a post.
+// Posts shorter than this are likely test/empty entries and are excluded.
+const MIN_CONTENT_LENGTH = 100;
+
 // Short ASCII slug from filename — stable, URL-safe, no Korean in URL
 function makePostSlug(filename: string): string {
   return crypto.createHash('sha256').update(filename, 'utf8').digest('hex').slice(0, 12);
@@ -145,6 +149,7 @@ export function getPostsByCategory(categoryUrlSlug: string): MarkdownPost[] {
         content: cleanContent(content),
       };
     })
+    .filter(post => post.content.length >= MIN_CONTENT_LENGTH)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
