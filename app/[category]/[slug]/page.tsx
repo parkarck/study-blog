@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -19,10 +20,30 @@ export async function generateStaticParams() {
   return params;
 }
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { category, slug } = await params;
   const post = getPostBySlug(category, slug);
-  return { title: post ? `${post.title} · CK Study Notes` : 'Not Found' };
+  if (!post) return { title: 'Not Found' };
+
+  const description = post.content
+    .replace(/[#*\n\r`>|[\]()-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 160);
+
+  return {
+    title: post.title,
+    description,
+    openGraph: {
+      title: post.title,
+      description,
+      type: 'article',
+      publishedTime: post.date || undefined,
+    },
+    alternates: {
+      canonical: `https://iamlazyck.kr/${category}/${slug}`,
+    },
+  };
 }
 
 export default async function PostPage({ params }: Props) {
@@ -33,8 +54,21 @@ export default async function PostPage({ params }: Props) {
   const catName = getCategoryDisplayName(category);
   const catIcon = getCategoryIcon(category);
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    datePublished: post.date || undefined,
+    author: { '@type': 'Person', name: 'CK' },
+    publisher: { '@type': 'Organization', name: 'CK Study Notes' },
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="post-header">
         <Link href={`/${encodeURIComponent(category)}`} className="back-link">
           ← {catIcon} {catName}

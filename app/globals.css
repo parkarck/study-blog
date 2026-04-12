@@ -624,9 +624,80 @@ main {
   color: var(--text-muted);
 }
 
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 12px;
+  font-size: 0.8rem;
+}
+
+.footer-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.footer-links a:hover {
+  color: var(--text);
+}
+
+.footer-copy {
+  color: var(--text-muted);
+}
+
 .footer-dog {
   font-size: 1.1rem;
   margin-right: 4px;
+}
+
+/* ===== Static Pages (about, privacy, terms) ===== */
+
+.static-page h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.static-page .page-updated {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 32px;
+}
+
+.static-page h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+}
+
+.static-page h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+.static-page p,
+.static-page li {
+  line-height: 1.8;
+  color: var(--text);
+  margin-bottom: 0.8em;
+}
+
+.static-page ul {
+  padding-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.static-page a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.static-page a:hover {
+  opacity: 0.8;
 }
 
 /* ===== Not Found ===== */

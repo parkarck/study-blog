@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getAllCategories, getPostsByCategory, getCategoryDisplayName, getCategoryIcon } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
@@ -11,10 +12,20 @@ export async function generateStaticParams() {
   return getAllCategories().map(cat => ({ category: cat.slug }));
 }
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { category } = await params;
   const name = getCategoryDisplayName(category);
-  return { title: `${name} · CK Study Notes` };
+  const posts = getPostsByCategory(category);
+  const description = `${name} 카테고리의 ${posts.length}개 공부 노트 - CK Study Notes`;
+
+  return {
+    title: name,
+    description,
+    openGraph: {
+      title: `${name} - CK Study Notes`,
+      description,
+    },
+  };
 }
 
 export default async function CategoryPage({ params }: Props) {
