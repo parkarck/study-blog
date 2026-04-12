@@ -6,6 +6,21 @@ Category page for programming
 
 ## Entries
 
+- [세계가 주목한 Karpathy LLM Wiki, 진짜 돌아가는 도구를 만들었습니다 | MindVault](세계가-주목한-karpathy-llm-wiki-진짜-돌아가는-도구를-만들었습니다--mi.md)
+  - 2026-04-12
+
+- [충격적인 AI 차이!  M3 vs M4 vs M5 맥북 성능 비교해보니](충격적인-ai-차이--m3-vs-m4-vs-m5-맥북-성능-비교해보니.md)
+  - 2026-04-12
+
+- [AI 1000명이 진짜 주식 데이터로 토론합니다 (소스코드 무료 공개) -클로드&GPT](ai-1000명이-진짜-주식-데이터로-토론합니다-소스코드-무료-공개--클로드gpt.md)
+  - 2026-04-12
+
+- [마이크로소프트가 말한 “AI 시대에 사라지는 사람 특징 " | 미래가 불안하다면 꼭 보세요 #microsoftaitour](마이크로소프트가-말한-ai-시대에-사라지는-사람-특징---미래가-불안하다면-꼭-보세요.md)
+  - 2026-04-12
+
+- [The Era of AI Agents | Aaron Levie on The a16z Show](the-era-of-ai-agents--aaron-levie-on-the-a16z-sho.md)
+  - 2026-04-12
+
 - [에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)](에이전트가-디자인을-따르게-하는-방법-designmd매우-친절한-커서-코덱스-클로.md)
   - 2026-04-11
 

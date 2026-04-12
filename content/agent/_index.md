@@ -6,6 +6,9 @@ Category page for agent
 
 ## Entries
 
+- [OpenClaw 4.11 Just Changed AI Agents Forever](openclaw-411-just-changed-ai-agents-forever.md)
+  - 2026-04-12
+
 - [Chat Agents in Sigma: From Insight to Action with Sigma Agents | Workflow Session](chat-agents-in-sigma-from-insight-to-action-with-.md)
   - 2026-04-06
 
