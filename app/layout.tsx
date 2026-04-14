@@ -53,8 +53,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <Link href="/terms">이용약관</Link>
               </div>
               <div className="footer-copy">
-                <span className="footer-dog">🐶</span>
-                시츄와 함께하는 공부 노트 · CK Study Notes
+                <span className="footer-totoro">🌳</span>
+                토토로와 함께하는 공부 노트 · CK Study Notes
               </div>
             </div>
           </footer>

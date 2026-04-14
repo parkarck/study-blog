@@ -11,7 +11,16 @@ export default function Home() {
       {/* Hero */}
       <section className="hero">
         <div className="hero-content">
-          <div className="hero-dog">🐶</div>
+          <div className="hero-totoro">
+            <img
+              className="hero-totoro-img"
+              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNlNmdzZWhpYzFhNXRycXVyend4Z2V5MjJucjFpZ3lmc2UyNzJtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMjRRZOo9XtZe/giphy.gif"
+              alt="공부해 CK!라고 외치는 토토로"
+            />
+            <div className="speech-bubble" role="img" aria-label="공부해 CK!">
+              공부해 CK!
+            </div>
+          </div>
           <div className="hero-text">
             <h1>CK Study Notes</h1>
             <p>Notion에서 뽑은 공부 노트를 한 곳에서 봐요</p>

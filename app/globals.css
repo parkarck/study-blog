@@ -15,7 +15,10 @@
   --text: #111111;
   --text-secondary: #555555;
   --text-muted: #999999;
-  --accent: #000000;
+  --accent: #3B5F3A;
+  --totoro-gray: #5A5A5A;
+  --acorn: #8B6F47;
+  --speech-bg: #FFF4C2;
   --code-bg: #1a1a1a;
   --code-text: #e8e8e8;
   --radius: 8px;
@@ -98,7 +101,7 @@ main {
   flex-shrink: 0;
 }
 
-.logo-dog {
+.logo-totoro {
   font-size: 1.4rem;
   line-height: 1;
 }
@@ -184,13 +187,69 @@ main {
 .hero-content {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 24px;
 }
 
-.hero-dog {
-  font-size: 4rem;
+.hero-totoro {
+  position: relative;
   flex-shrink: 0;
-  line-height: 1;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.hero-totoro-img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--accent);
+  background: var(--bg-secondary);
+  display: block;
+}
+
+.speech-bubble {
+  position: relative;
+  background: var(--speech-bg);
+  border: 2px solid var(--text);
+  border-radius: 14px;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+  box-shadow: 2px 2px 0 var(--text);
+  animation: wiggle 3s ease-in-out infinite;
+  transform-origin: left center;
+}
+
+.speech-bubble::before,
+.speech-bubble::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+
+.speech-bubble::before {
+  border-width: 9px 12px 9px 0;
+  border-color: transparent var(--text) transparent transparent;
+  transform: translateY(-50%);
+}
+
+.speech-bubble::after {
+  border-width: 7px 10px 7px 0;
+  border-color: transparent var(--speech-bg) transparent transparent;
+  transform: translate(2px, -50%);
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
 }
 
 .hero-text h1 {
@@ -646,7 +705,7 @@ main {
   color: var(--text-muted);
 }
 
-.footer-dog {
+.footer-totoro {
   font-size: 1.1rem;
   margin-right: 4px;
 }
@@ -739,8 +798,14 @@ main {
     margin-bottom: 32px;
   }
 
-  .hero-dog {
-    font-size: 2.8rem;
+  .hero-totoro-img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .speech-bubble {
+    font-size: 0.85rem;
+    padding: 8px 12px;
   }
 
   .hero-text h1 {
@@ -792,9 +857,16 @@ main {
   .hero-content {
     flex-direction: column;
     gap: 16px;
+    align-items: flex-start;
   }
 
-  .hero-dog {
-    font-size: 3rem;
+  .hero-totoro {
+    flex-direction: row;
+    align-self: center;
+  }
+
+  .hero-totoro-img {
+    width: 110px;
+    height: 110px;
   }
 }

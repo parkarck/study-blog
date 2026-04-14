@@ -20,7 +20,7 @@ export default function Header({ categories }: HeaderProps) {
       <div className="container">
         <div className="header-inner">
           <Link href="/" className="site-logo">
-            <span className="logo-dog">🐶</span>
+            <span className="logo-totoro">🌳</span>
             <span>CK Study</span>
           </Link>
 
