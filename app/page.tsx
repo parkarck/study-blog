@@ -21,18 +21,14 @@ export default function Home() {
               공부해 CK!
             </div>
           </div>
-          <div className="hero-text">
-            <h1>CK Study Notes</h1>
-            <p>Notion에서 뽑은 공부 노트를 한 곳에서 봐요</p>
-            <div className="hero-stats">
-              <div className="stat">
-                <span className="stat-num">{totalPosts}</span>
-                <span className="stat-label">Posts</span>
-              </div>
-              <div className="stat">
-                <span className="stat-num">{categories.length}</span>
-                <span className="stat-label">Categories</span>
-              </div>
+          <div className="hero-stats">
+            <div className="stat">
+              <span className="stat-num">{totalPosts}</span>
+              <span className="stat-label">Posts</span>
+            </div>
+            <div className="stat">
+              <span className="stat-num">{categories.length}</span>
+              <span className="stat-label">Categories</span>
             </div>
           </div>
         </div>
@@ -48,7 +44,6 @@ export default function Home() {
               href={`/${encodeURIComponent(cat.slug)}`}
               className="category-card"
             >
-              <span className="category-icon">{cat.icon}</span>
               <span className="category-name">{cat.name}</span>
               <span className="category-count">{cat.count} posts</span>
             </Link>

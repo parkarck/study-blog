@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllCategories, getPostsByCategory, getPostBySlug, getCategoryDisplayName, getCategoryIcon } from '@/lib/markdown';
+import { getAllCategories, getPostsByCategory, getPostBySlug, getCategoryDisplayName } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
 
 interface Props {
@@ -52,7 +52,6 @@ export default async function PostPage({ params }: Props) {
   if (!post) notFound();
 
   const catName = getCategoryDisplayName(category);
-  const catIcon = getCategoryIcon(category);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -71,7 +70,7 @@ export default async function PostPage({ params }: Props) {
       />
       <div className="post-header">
         <Link href={`/${encodeURIComponent(category)}`} className="back-link">
-          ← {catIcon} {catName}
+          ← {catName}
         </Link>
         <h1>{post.title}</h1>
         <div className="post-meta">
@@ -79,7 +78,7 @@ export default async function PostPage({ params }: Props) {
             <span className="post-meta-item">📅 {post.date}</span>
           )}
           <Link href={`/${encodeURIComponent(category)}`} className="post-cat-tag">
-            {catIcon} {catName}
+            {catName}
           </Link>
           {post.sourceUrl && (
             <a

@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getAllCategories, getPostsByCategory, getCategoryDisplayName, getCategoryIcon } from '@/lib/markdown';
+import { getAllCategories, getPostsByCategory, getCategoryDisplayName } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
 
 interface Props {
@@ -35,14 +35,12 @@ export default async function CategoryPage({ params }: Props) {
   if (posts.length === 0) notFound();
 
   const name = getCategoryDisplayName(category);
-  const icon = getCategoryIcon(category);
 
   return (
     <>
       <div className="category-header">
         <Link href="/" className="back-link">← 홈으로</Link>
         <div className="category-header-title">
-          <span className="category-header-icon">{icon}</span>
           <h1>{name}</h1>
         </div>
         <p className="category-header-count">{posts.length}개의 글</p>

@@ -31,7 +31,6 @@ export default function Header({ categories }: HeaderProps) {
                 href={`/${encodeURIComponent(cat.slug)}`}
                 className={`nav-link${isActive(cat.slug) ? ' active' : ''}`}
               >
-                <span className="nav-icon">{cat.icon}</span>
                 <span>{cat.name}</span>
               </Link>
             ))}
@@ -58,7 +57,6 @@ export default function Header({ categories }: HeaderProps) {
               className={`nav-link${isActive(cat.slug) ? ' active' : ''}`}
               onClick={() => setMenuOpen(false)}
             >
-              <span className="nav-icon">{cat.icon}</span>
               <span>{cat.name}</span>
               <span style={{ color: 'var(--text-muted)', fontSize: '0.7rem' }}>{cat.count}</span>
             </Link>

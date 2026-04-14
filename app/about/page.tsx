@@ -37,7 +37,7 @@ export default function AboutPage() {
         {categories.map(cat => (
           <li key={cat.slug}>
             <Link href={`/${cat.slug}`}>
-              {cat.icon} {cat.name} ({cat.count}개의 글)
+              {cat.name} ({cat.count}개의 글)
             </Link>
           </li>
         ))}
