@@ -1,11 +1,17 @@
-import Link from 'next/link';
 import { getAllCategories, getAllPosts } from '@/lib/markdown';
 import { getTotoroGifs } from '@/lib/totoroGifs';
 import HeroTotoro from './components/HeroTotoro';
+import HomePostList from './components/HomePostList';
 
 export default function Home() {
   const categories = getAllCategories();
-  const recentPosts = getAllPosts(15);
+  const allPostsIndex = getAllPosts().map(p => ({
+    slug: p.slug,
+    categorySlug: p.categorySlug,
+    category: p.category,
+    title: p.title,
+    date: p.date,
+  }));
   const totalPosts = categories.reduce((s, c) => s + c.count, 0);
   const totoro = getTotoroGifs();
 
@@ -31,25 +37,7 @@ export default function Home() {
       {/* Recent Posts */}
       <section>
         <p className="section-title">Recent Posts</p>
-        <div className="post-list">
-          {recentPosts.map(post => (
-            <div key={`${post.categorySlug}-${post.slug}`} className="post-item">
-              <span className="post-date">{post.date}</span>
-              <Link
-                href={`/${encodeURIComponent(post.categorySlug)}`}
-                className="post-cat-tag"
-              >
-                {post.category}
-              </Link>
-              <Link
-                href={`/${encodeURIComponent(post.categorySlug)}/${encodeURIComponent(post.slug)}`}
-                className="post-title-link"
-              >
-                {post.title}
-              </Link>
-            </div>
-          ))}
-        </div>
+        <HomePostList posts={allPostsIndex} />
       </section>
     </>
   );
