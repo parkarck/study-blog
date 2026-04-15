@@ -1,5 +1,5 @@
 ---json
-{"title": "AI 1000명이 진짜 주식 데이터로 토론합니다 (소스코드 무료 공개) -클로드&GPT", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/TH_UUE017vY?si=KyH9sLBXhjvsbe-9", "status": "시작 전"}
+{"title": "AI 1000명이 진짜 주식 데이터로 토론합니다 (소스코드 무료 공개) -클로드&GPT", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/TH_UUE017vY?si=KyH9sLBXhjvsbe-9", "status": "완료"}
 ---
 
 # AI 1000명이 진짜 주식 데이터로 토론합니다 (소스코드 무료 공개) -클로드&GPT

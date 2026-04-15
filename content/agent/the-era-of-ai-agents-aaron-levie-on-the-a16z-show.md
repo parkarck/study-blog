@@ -1,5 +1,5 @@
 ---json
-{"title": "The Era of AI Agents | Aaron Levie on The a16z Show", "category": "agent", "date": "2026-04-12", "source_url": "https://youtu.be/dvt_74kV-RM?si=fyc5DVevEwQX_7v8", "status": "시작 전"}
+{"title": "The Era of AI Agents | Aaron Levie on The a16z Show", "category": "agent", "date": "2026-04-12", "source_url": "https://youtu.be/dvt_74kV-RM?si=fyc5DVevEwQX_7v8", "status": "완료"}
 ---
 
 # The Era of AI Agents | Aaron Levie on The a16z Show

@@ -1,5 +1,5 @@
 ---json
-{"title": "안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)", "category": "install", "date": "2026-04-14", "source_url": "https://youtu.be/wXc7-vFSd5U", "status": "시작 전"}
+{"title": "안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)", "category": "install", "date": "2026-04-14", "source_url": "https://youtu.be/wXc7-vFSd5U", "status": "완료"}
 ---
 
 # 안쓰면 손해! 클로드코드가 내 노하우를 나무위키처럼 정리해줍니다 (feat. 안드레 카파시)

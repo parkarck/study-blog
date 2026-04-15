@@ -1,5 +1,5 @@
 ---json
-{"title": "AI 토큰 84% 절감 LLM Wiki 패턴, Karpathy가 제안한 컨텍스트 관리법", "category": "general", "date": "2026-04-14", "source_url": "https://youtu.be/5uTpUYw8Of4", "status": "시작 전"}
+{"title": "AI 토큰 84% 절감 LLM Wiki 패턴, Karpathy가 제안한 컨텍스트 관리법", "category": "general", "date": "2026-04-14", "source_url": "https://youtu.be/5uTpUYw8Of4", "status": "완료"}
 ---
 
 # AI 토큰 84% 절감 LLM Wiki 패턴, Karpathy가 제안한 컨텍스트 관리법

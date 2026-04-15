@@ -1,5 +1,5 @@
 ---json
-{"title": "충격적인 AI 차이!  M3 vs M4 vs M5 맥북 성능 비교해보니", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/SFYjMCe1SBA?si=OQHN4bDF0S-A738l", "status": "시작 전"}
+{"title": "충격적인 AI 차이!  M3 vs M4 vs M5 맥북 성능 비교해보니", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/SFYjMCe1SBA?si=OQHN4bDF0S-A738l", "status": "완료"}
 ---
 
 # 충격적인 AI 차이!  M3 vs M4 vs M5 맥북 성능 비교해보니

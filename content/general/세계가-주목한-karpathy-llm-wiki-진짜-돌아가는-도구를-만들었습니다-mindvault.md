@@ -1,5 +1,5 @@
 ---json
-{"title": "세계가 주목한 Karpathy LLM Wiki, 진짜 돌아가는 도구를 만들었습니다 | MindVault", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/LxMhb8HIL7A?si=y6TShLMzbBBNEChP", "status": "시작 전"}
+{"title": "세계가 주목한 Karpathy LLM Wiki, 진짜 돌아가는 도구를 만들었습니다 | MindVault", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/LxMhb8HIL7A?si=y6TShLMzbBBNEChP", "status": "완료"}
 ---
 
 # 세계가 주목한 Karpathy LLM Wiki, 진짜 돌아가는 도구를 만들었습니다 | MindVault

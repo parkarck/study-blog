@@ -1,5 +1,5 @@
 ---json
-{"title": "RAG기반 LLM,  LG화학 생성형AI 사례분석  [세미남441@토크아이티, 데이터이쿠]", "category": "general", "date": "2026-04-14", "source_url": "https://youtu.be/moIAT5FWNzU", "status": "시작 전"}
+{"title": "RAG기반 LLM,  LG화학 생성형AI 사례분석  [세미남441@토크아이티, 데이터이쿠]", "category": "general", "date": "2026-04-14", "source_url": "https://youtu.be/moIAT5FWNzU", "status": "완료"}
 ---
 
 # RAG기반 LLM,  LG화학 생성형AI 사례분석  [세미남441@토크아이티, 데이터이쿠]

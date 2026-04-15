@@ -1,5 +1,5 @@
 ---json
-{"title": "에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)", "category": "web-dev", "date": "2026-04-13", "source_url": "https://youtu.be/gvCmeuWPVkc?si=Fo790uXNjqKFVUDu", "status": "시작 전"}
+{"title": "에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)", "category": "web-dev", "date": "2026-04-13", "source_url": "https://youtu.be/gvCmeuWPVkc?si=Fo790uXNjqKFVUDu", "status": "완료"}
 ---
 
 # 에이전트가 디자인을 따르게 하는 방법, DESIGN.md(매우 친절한 커서, 코덱스, 클로드 코드 실습 과정 포함)

@@ -1,5 +1,5 @@
 ---json
-{"title": "OpenClaw 4.11 Just Changed AI Agents Forever", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/AIon3YHbdQM?si=f9a4G-eRbPJrYmR3", "status": "시작 전"}
+{"title": "OpenClaw 4.11 Just Changed AI Agents Forever", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/AIon3YHbdQM?si=f9a4G-eRbPJrYmR3", "status": "완료"}
 ---
 
 # OpenClaw 4.11 Just Changed AI Agents Forever

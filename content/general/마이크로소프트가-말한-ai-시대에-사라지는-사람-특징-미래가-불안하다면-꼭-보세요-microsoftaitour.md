@@ -1,5 +1,5 @@
 ---json
-{"title": "마이크로소프트가 말한 “AI 시대에 사라지는 사람 특징 \" | 미래가 불안하다면 꼭 보세요 #microsoftaitour", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/vGm95609JZ8?si=mp2dbnMFGmDhx5rA", "status": "시작 전"}
+{"title": "마이크로소프트가 말한 “AI 시대에 사라지는 사람 특징 \" | 미래가 불안하다면 꼭 보세요 #microsoftaitour", "category": "general", "date": "2026-04-12", "source_url": "https://youtu.be/vGm95609JZ8?si=mp2dbnMFGmDhx5rA", "status": "처음 학습"}
 ---
 
 # 마이크로소프트가 말한 “AI 시대에 사라지는 사람 특징 " | 미래가 불안하다면 꼭 보세요 #microsoftaitour
