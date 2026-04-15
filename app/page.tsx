@@ -1,26 +1,20 @@
 import Link from 'next/link';
 import { getAllCategories, getAllPosts } from '@/lib/markdown';
+import { getTotoroGifs } from '@/lib/totoroGifs';
+import HeroTotoro from './components/HeroTotoro';
 
 export default function Home() {
   const categories = getAllCategories();
   const recentPosts = getAllPosts(15);
   const totalPosts = categories.reduce((s, c) => s + c.count, 0);
+  const totoro = getTotoroGifs();
 
   return (
     <>
       {/* Hero */}
       <section className="hero">
         <div className="hero-content">
-          <div className="hero-totoro">
-            <img
-              className="hero-totoro-img"
-              src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNlNmdzZWhpYzFhNXRycXVyend4Z2V5MjJucjFpZ3lmc2UyNzJtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMjRRZOo9XtZe/giphy.gif"
-              alt="공부해 CK!라고 외치는 토토로"
-            />
-            <div className="speech-bubble" role="img" aria-label="공부해 CK!">
-              공부해 CK!
-            </div>
-          </div>
+          <HeroTotoro initial={totoro.initial} all={totoro.all} />
           <div className="hero-stats">
             <div className="stat">
               <span className="stat-num">{totalPosts}</span>
@@ -31,23 +25,6 @@ export default function Home() {
               <span className="stat-label">Categories</span>
             </div>
           </div>
-        </div>
-      </section>
-
-      {/* Categories */}
-      <section>
-        <p className="section-title">Categories</p>
-        <div className="category-grid">
-          {categories.map(cat => (
-            <Link
-              key={cat.slug}
-              href={`/${encodeURIComponent(cat.slug)}`}
-              className="category-card"
-            >
-              <span className="category-name">{cat.name}</span>
-              <span className="category-count">{cat.count} posts</span>
-            </Link>
-          ))}
         </div>
       </section>
 
