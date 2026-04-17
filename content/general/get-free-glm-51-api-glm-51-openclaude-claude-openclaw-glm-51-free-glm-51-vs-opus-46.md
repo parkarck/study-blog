@@ -1,5 +1,5 @@
 ---json
-{"title": "Get Free GLM 5.1 API | GLM 5.1 | OpenClaude | Claude | Openclaw | glm 5.1 free | glm 5.1 vs opus 4.6", "category": "general", "date": "2026-04-16", "source_url": "https://youtu.be/C0CqnZ-zbuc?si=2z0rKy92whVjaxyN", "status": "시작 전"}
+{"title": "Get Free GLM 5.1 API | GLM 5.1 | OpenClaude | Claude | Openclaw | glm 5.1 free | glm 5.1 vs opus 4.6", "category": "general", "date": "2026-04-16", "source_url": "https://youtu.be/C0CqnZ-zbuc?si=2z0rKy92whVjaxyN", "status": "완료"}
 ---
 
 # Get Free GLM 5.1 API | GLM 5.1 | OpenClaude | Claude | Openclaw | glm 5.1 free | glm 5.1 vs opus 4.6

@@ -1,5 +1,5 @@
 ---json
-{"title": "Claude Code vs Codex 비교 분석", "category": "llm", "date": "2026-04-17", "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1sk7e2k/claude_code_100_hours_vs_codex_20_hours/", "status": "시작 전"}
+{"title": "Claude Code vs Codex 비교 분석", "category": "llm", "date": "2026-04-17", "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1sk7e2k/claude_code_100_hours_vs_codex_20_hours/", "status": "완료"}
 ---
 
 # Claude Code vs Codex 비교 분석

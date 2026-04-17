@@ -1,5 +1,5 @@
 ---json
-{"title": "카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기, 이것만 보세요— 클로드 코드 × 옵시디언 × Graphify", "category": "general", "date": "2026-04-16", "source_url": "https://youtu.be/cNlvrU-KcRg?si=h4oO353MfBPOKy-W", "status": "시작 전"}
+{"title": "카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기, 이것만 보세요— 클로드 코드 × 옵시디언 × Graphify", "category": "general", "date": "2026-04-16", "source_url": "https://youtu.be/cNlvrU-KcRg?si=h4oO353MfBPOKy-W", "status": "완료"}
 ---
 
 # 카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기, 이것만 보세요— 클로드 코드 × 옵시디언 × Graphify
