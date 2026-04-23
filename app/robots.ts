@@ -5,9 +5,9 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: '*',
-        allow: '/',
+        disallow: '/',
       },
     ],
-    sitemap: 'https://iamlazyck.kr/sitemap.xml',
+    sitemap: 'https://study.iamlazyck.kr/sitemap.xml',
   };
 }

@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'CK Study Notes',
     description: '프로그래밍, AI, LLM, 보안, 서버 등 다양한 기술 주제의 공부 노트',
-    url: 'https://iamlazyck.kr',
+    url: 'https://study.iamlazyck.kr',
     siteName: 'CK Study Notes',
     locale: 'ko_KR',
     type: 'website',
   },
   robots: {
-    index: true,
-    follow: true,
+    index: false,
+    follow: false,
   },
   other: {
     'google-adsense-account': 'ca-pub-9926984776851936',

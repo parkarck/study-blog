@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { getAllCategories, getPostsByCategory } from '@/lib/markdown';
 
-const BASE_URL = 'https://iamlazyck.kr';
+const BASE_URL = 'https://study.iamlazyck.kr';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const categories = getAllCategories();
